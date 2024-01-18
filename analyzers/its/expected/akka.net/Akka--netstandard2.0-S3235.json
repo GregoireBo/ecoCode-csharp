@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S3235",
+"message":  "Remove these redundant parentheses.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/ActorRefProvider.cs#L566",
+"region":  {
+"startLine":  566,
+"startColumn":  49,
+"endLine":  566,
+"endColumn":  51
+}
+}
+},
+{
+"id":  "S3235",
+"message":  "Remove these redundant parentheses.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/Address.cs#L338",
+"region":  {
+"startLine":  338,
+"startColumn":  40,
+"endLine":  338,
+"endColumn":  42
+}
+}
+}
+]
+}

@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3168",
+"message":  "Return 'Task' instead.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net6/Net6/AllowAsyncMethodBuilderAttributeOnMethods.cs#L6",
+"region":  {
+"startLine":  6,
+"startColumn":  22,
+"endLine":  6,
+"endColumn":  26
+}
+}
+}
+]
+}

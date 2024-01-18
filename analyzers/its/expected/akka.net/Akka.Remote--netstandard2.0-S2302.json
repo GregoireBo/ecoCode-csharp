@@ -1,0 +1,121 @@
+{
+"issues":  [
+{
+"id":  "S2302",
+"message":  "Replace the string 'endpoint' with 'nameof(endpoint)'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Remote/EndpointRegistry.cs#L48",
+"region":  {
+"startLine":  48,
+"startColumn":  51,
+"endLine":  48,
+"endColumn":  93
+}
+}
+},
+{
+"id":  "S2302",
+"message":  "Replace the string 'message' with 'nameof(message)'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Remote/Remoting.cs#L293",
+"region":  {
+"startLine":  293,
+"startColumn":  52,
+"endLine":  293,
+"endColumn":  115
+}
+}
+},
+{
+"id":  "S2302",
+"message":  "Replace the string 'address' with 'nameof(address)'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Remote/Remoting.cs#L346",
+"region":  {
+"startLine":  346,
+"startColumn":  54,
+"endLine":  346,
+"endColumn":  86
+}
+}
+},
+{
+"id":  "S2302",
+"message":  "Replace the string 'remote' with 'nameof(remote)'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Remote/Remoting.cs#L397",
+"region":  {
+"startLine":  397,
+"startColumn":  21,
+"endLine":  397,
+"endColumn":  123
+}
+}
+},
+{
+"id":  "S2302",
+"message":  "Replace the string 'manifest' with 'nameof(manifest)'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Remote/Serialization/MiscMessageSerializer.cs#L134",
+"region":  {
+"startLine":  134,
+"startColumn":  48,
+"endLine":  134,
+"endColumn":  104
+}
+}
+},
+{
+"id":  "S2302",
+"message":  "Replace the string 'manifest' with 'nameof(manifest)'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Remote/Serialization/PrimitiveSerializers.cs#L74",
+"region":  {
+"startLine":  74,
+"startColumn":  51,
+"endLine":  74,
+"endColumn":  107
+}
+}
+},
+{
+"id":  "S2302",
+"message":  "Replace the string 'address' with 'nameof(address)'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Remote/Transport/DotNetty/DotNettyTransport.cs#L416",
+"region":  {
+"startLine":  416,
+"startColumn":  112,
+"endLine":  416,
+"endColumn":  138
+}
+}
+},
+{
+"id":  "S2302",
+"message":  "Replace the string 'address' with 'nameof(address)'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Remote/Transport/DotNetty/DotNettyTransport.cs#L459",
+"region":  {
+"startLine":  459,
+"startColumn":  69,
+"endLine":  459,
+"endColumn":  100
+}
+}
+},
+{
+"id":  "S2302",
+"message":  "Replace the string 'config' with 'nameof(config)'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Remote/Transport/DotNetty/DotNettyTransportSettings.cs#L295",
+"region":  {
+"startLine":  295,
+"startColumn":  104,
+"endLine":  295,
+"endColumn":  189
+}
+}
+}
+]
+}

@@ -1,0 +1,108 @@
+{
+"issues":  [
+{
+"id":  "S3060",
+"message":  "Offload the code that's conditional on this type test to the appropriate subclass and remove the condition.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/ActorBase.cs#L107",
+"region":  {
+"startLine":  107,
+"startColumn":  17,
+"endLine":  107,
+"endColumn":  47
+}
+}
+},
+{
+"id":  "S3060",
+"message":  "Offload the code that's conditional on this type test to the appropriate subclass and remove the condition.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/ActorBase.cs#L164",
+"region":  {
+"startLine":  164,
+"startColumn":  21,
+"endLine":  164,
+"endColumn":  51
+}
+}
+},
+{
+"id":  "S3060",
+"message":  "Offload the code that's conditional on this type test to the appropriate subclass and remove the condition.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/ActorBase.cs#L177",
+"region":  {
+"startLine":  177,
+"startColumn":  33,
+"endLine":  177,
+"endColumn":  52
+}
+}
+},
+{
+"id":  "S3060",
+"message":  "Offload the code that's conditional on this type test to the appropriate subclass and remove the condition.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/ActorBase.Lifecycle.cs#L21",
+"region":  {
+"startLine":  21,
+"startColumn":  17,
+"endLine":  21,
+"endColumn":  47
+}
+}
+},
+{
+"id":  "S3060",
+"message":  "Offload the code that's conditional on this type test to the appropriate subclass and remove the condition.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/ActorBase.Lifecycle.cs#L89",
+"region":  {
+"startLine":  89,
+"startColumn":  17,
+"endLine":  89,
+"endColumn":  47
+}
+}
+},
+{
+"id":  "S3060",
+"message":  "Offload the code that's conditional on this type test to the appropriate subclass and remove the condition.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/ActorPath.cs#L205",
+"region":  {
+"startLine":  205,
+"startColumn":  21,
+"endLine":  205,
+"endColumn":  42
+}
+}
+},
+{
+"id":  "S3060",
+"message":  "Offload the code that's conditional on this type test to the appropriate subclass and remove the condition.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/ActorPath.cs#L407",
+"region":  {
+"startLine":  407,
+"startColumn":  17,
+"endLine":  407,
+"endColumn":  38
+}
+}
+},
+{
+"id":  "S3060",
+"message":  "Offload the code that's conditional on this type test to the appropriate subclass and remove the condition.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/FSM.cs#L677",
+"region":  {
+"startLine":  677,
+"startColumn":  17,
+"endLine":  677,
+"endColumn":  36
+}
+}
+}
+]
+}

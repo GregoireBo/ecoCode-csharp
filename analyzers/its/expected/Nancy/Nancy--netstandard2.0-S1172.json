@@ -1,0 +1,121 @@
+{
+"issues":  [
+{
+"id":  "S1172",
+"message":  "Remove this unused method parameter 'typeCatalog'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/DefaultRuntimeEnvironmentInformation.cs#L33",
+"region":  {
+"startLine":  33,
+"startColumn":  42,
+"endLine":  33,
+"endColumn":  66
+}
+}
+},
+{
+"id":  "S1172",
+"message":  "Remove this unused method parameter 'serializer'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/Diagnostics/DiagnosticsHook.cs#L268",
+"region":  {
+"startLine":  268,
+"startColumn":  129,
+"endLine":  268,
+"endColumn":  163
+}
+}
+},
+{
+"id":  "S1172",
+"message":  "Remove this unused method parameter 'diagnosticsProvider'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/Diagnostics/InteractiveDiagnostics.cs#L211",
+"region":  {
+"startLine":  211,
+"startColumn":  59,
+"endLine":  211,
+"endColumn":  99
+}
+}
+},
+{
+"id":  "S1172",
+"message":  "Remove this parameter 'viewName', whose value is ignored in the method.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/ViewEngines/DefaultViewLocator.cs#L243",
+"region":  {
+"startLine":  243,
+"startColumn":  38,
+"endLine":  243,
+"endColumn":  53
+}
+}
+},
+{
+"id":  "S1172",
+"message":  "Remove this unused method parameter 'model'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/ViewEngines/SuperSimpleViewEngine/SuperSimpleViewEngine.cs#L377",
+"region":  {
+"startLine":  377,
+"startColumn":  76,
+"endLine":  377,
+"endColumn":  88
+}
+}
+},
+{
+"id":  "S1172",
+"message":  "Remove this unused method parameter 'model'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/ViewEngines/SuperSimpleViewEngine/SuperSimpleViewEngine.cs#L439",
+"region":  {
+"startLine":  439,
+"startColumn":  76,
+"endLine":  439,
+"endColumn":  88
+}
+}
+},
+{
+"id":  "S1172",
+"message":  "Remove this unused method parameter 'model'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/ViewEngines/SuperSimpleViewEngine/SuperSimpleViewEngine.cs#L597",
+"region":  {
+"startLine":  597,
+"startColumn":  73,
+"endLine":  597,
+"endColumn":  85
+}
+}
+},
+{
+"id":  "S1172",
+"message":  "Remove this unused method parameter 'model'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/ViewEngines/SuperSimpleViewEngine/SuperSimpleViewEngine.cs#L633",
+"region":  {
+"startLine":  633,
+"startColumn":  85,
+"endLine":  633,
+"endColumn":  97
+}
+}
+},
+{
+"id":  "S1172",
+"message":  "Remove this unused method parameter 'viewEngine'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/ViewEngines/ViewEngineApplicationStartup.cs#L42",
+"region":  {
+"startLine":  42,
+"startColumn":  73,
+"endLine":  42,
+"endColumn":  95
+}
+}
+}
+]
+}

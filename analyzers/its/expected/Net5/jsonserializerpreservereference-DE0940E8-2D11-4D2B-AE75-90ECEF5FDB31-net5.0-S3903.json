@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3903",
+"message":  "Move 'Employee' into a named namespace.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5Samples/JsonSerializerPreserveReference/Program.cs#L38",
+"region":  {
+"startLine":  38,
+"startColumn":  14,
+"endLine":  38,
+"endColumn":  22
+}
+}
+}
+]
+}

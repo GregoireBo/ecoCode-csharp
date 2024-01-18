@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SonarAnalyzer.VisualBasic</id>
+    <version>9.18.0.0</version>
+    <title>SonarAnalyzer for Visual Basic</title>
+    <authors>SonarSource</authors>
+    <owners>SonarSource</owners>
+    <license type="expression">LGPL-3.0-only</license>
+    <projectUrl>https://redirect.sonarsource.com/doc/sonar-visualstudio.html</projectUrl>
+    <repository type="git" url="https://github.com/SonarSource/sonar-dotnet" />
+    <icon>images\sonarsource_64.png</icon>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>Roslyn analyzers that spot Bugs, Vulnerabilities and Code Smells in your code. For an even better overall experience, you can use SonarLint for Visual Studio, which is a free extension that can be used standalone or with SonarQube and/or SonarCloud.</summary>
+    <description>Roslyn analyzers that spot Bugs, Vulnerabilities and Code Smells in your code. For an even better overall experience, you can use SonarLint for Visual Studio, which is a free extension (https://www.sonarlint.org/visualstudio/) that can be used standalone or with SonarQube (https://www.sonarqube.org/) and/or SonarCloud (https://sonarcloud.io/).</description>
+    <releaseNotes>https://github.com/SonarSource/sonar-dotnet/releases/tag/9.18.0.0</releaseNotes>
+    <language>en-US</language>
+    <copyright>Copyright © 2015-2024 SonarSource SA</copyright>
+    <tags>Roslyn Analyzers Refactoring CodeAnalysis CleanCode Clean Code</tags>
+    <developmentDependency>true</developmentDependency>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="binaries\Google.Protobuf.dll" target="analyzers" />
+    <file src="binaries\SonarAnalyzer.dll" target="analyzers" />
+    <file src="binaries\SonarAnalyzer.CFG.dll" target="analyzers" />
+    <file src="binaries\SonarAnalyzer.VisualBasic.dll" target="analyzers" />
+    <file src="tools-vbnet\*.ps1" target="tools\" />
+    <file src="logos\sonarsource_64.png" target="images\" />
+    <file src="..\..\THIRD-PARTY-NOTICES.txt" target="license\" />
+  </files>
+</package>

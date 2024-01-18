@@ -1,0 +1,69 @@
+{
+"issues":  [
+{
+"id":  "S1144",
+"message":  "Remove the unused private field 'NancyAssemblyName'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/Bootstrapper/NancyBootstrapperLocator.cs#L18",
+"region":  {
+"startLine":  18,
+"startColumn":  9,
+"endLine":  18,
+"endColumn":  120
+}
+}
+},
+{
+"id":  "S1144",
+"message":  "Remove the unused private property 'RootPath'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/Conventions/StaticContentConventionBuilder.cs#L277",
+"region":  {
+"startLine":  277,
+"startColumn":  27,
+"endLine":  277,
+"endColumn":  35
+}
+}
+},
+{
+"id":  "S1144",
+"message":  "Remove the unused private method 'GetAllRoutes'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/Routing/DefaultRouteCacheProvider.cs#L76",
+"region":  {
+"startLine":  76,
+"startColumn":  55,
+"endLine":  76,
+"endColumn":  67
+}
+}
+},
+{
+"id":  "S1144",
+"message":  "Remove the unused private method 'IsIgnoredAssembly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/TinyIoc/TinyIoC.cs#L3350",
+"region":  {
+"startLine":  3350,
+"startColumn":  22,
+"endLine":  3350,
+"endColumn":  39
+}
+}
+},
+{
+"id":  "S1144",
+"message":  "Remove the unused private method 'ConstructType'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/TinyIoc/TinyIoC.cs#L3843",
+"region":  {
+"startLine":  3843,
+"startColumn":  24,
+"endLine":  3843,
+"endColumn":  37
+}
+}
+}
+]
+}

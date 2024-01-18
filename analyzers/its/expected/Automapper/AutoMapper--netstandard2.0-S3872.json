@@ -1,0 +1,460 @@
+{
+"issues":  [
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'condition' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L101",
+"region":  {
+"startLine":  101,
+"startColumn":  76,
+"endLine":  101,
+"endColumn":  85
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L101",
+"region":  {
+"startLine":  101,
+"startColumn":  14,
+"endLine":  101,
+"endColumn":  23
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'condition' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L106",
+"region":  {
+"startLine":  106,
+"startColumn":  67,
+"endLine":  106,
+"endColumn":  76
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L106",
+"region":  {
+"startLine":  106,
+"startColumn":  14,
+"endLine":  106,
+"endColumn":  23
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'condition' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L111",
+"region":  {
+"startLine":  111,
+"startColumn":  58,
+"endLine":  111,
+"endColumn":  67
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L111",
+"region":  {
+"startLine":  111,
+"startColumn":  14,
+"endLine":  111,
+"endColumn":  23
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'condition' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L116",
+"region":  {
+"startLine":  116,
+"startColumn":  44,
+"endLine":  116,
+"endColumn":  53
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L116",
+"region":  {
+"startLine":  116,
+"startColumn":  14,
+"endLine":  116,
+"endColumn":  23
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'nullSubstitute' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L275",
+"region":  {
+"startLine":  275,
+"startColumn":  36,
+"endLine":  275,
+"endColumn":  50
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L275",
+"region":  {
+"startLine":  275,
+"startColumn":  14,
+"endLine":  275,
+"endColumn":  28
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'condition' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L96",
+"region":  {
+"startLine":  96,
+"startColumn":  95,
+"endLine":  96,
+"endColumn":  104
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L96",
+"region":  {
+"startLine":  96,
+"startColumn":  14,
+"endLine":  96,
+"endColumn":  23
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'validator' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MapperConfigurationExpression.cs#L107",
+"region":  {
+"startLine":  107,
+"startColumn":  65,
+"endLine":  107,
+"endColumn":  74
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MapperConfigurationExpression.cs#L107",
+"region":  {
+"startLine":  107,
+"startColumn":  45,
+"endLine":  107,
+"endColumn":  54
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'globalIgnores' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MappingExpressionBase.cs#L152",
+"region":  {
+"startLine":  152,
+"startColumn":  81,
+"endLine":  152,
+"endColumn":  94
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MappingExpressionBase.cs#L152",
+"region":  {
+"startLine":  152,
+"startColumn":  22,
+"endLine":  152,
+"endColumn":  35
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'condition' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MemberConfigurationExpression.cs#L136",
+"region":  {
+"startLine":  136,
+"startColumn":  102,
+"endLine":  136,
+"endColumn":  111
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MemberConfigurationExpression.cs#L136",
+"region":  {
+"startLine":  136,
+"startColumn":  21,
+"endLine":  136,
+"endColumn":  30
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'condition' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MemberConfigurationExpression.cs#L147",
+"region":  {
+"startLine":  147,
+"startColumn":  83,
+"endLine":  147,
+"endColumn":  92
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MemberConfigurationExpression.cs#L147",
+"region":  {
+"startLine":  147,
+"startColumn":  21,
+"endLine":  147,
+"endColumn":  30
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'condition' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MemberConfigurationExpression.cs#L158",
+"region":  {
+"startLine":  158,
+"startColumn":  74,
+"endLine":  158,
+"endColumn":  83
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MemberConfigurationExpression.cs#L158",
+"region":  {
+"startLine":  158,
+"startColumn":  21,
+"endLine":  158,
+"endColumn":  30
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'condition' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MemberConfigurationExpression.cs#L169",
+"region":  {
+"startLine":  169,
+"startColumn":  65,
+"endLine":  169,
+"endColumn":  74
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MemberConfigurationExpression.cs#L169",
+"region":  {
+"startLine":  169,
+"startColumn":  21,
+"endLine":  169,
+"endColumn":  30
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'condition' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MemberConfigurationExpression.cs#L180",
+"region":  {
+"startLine":  180,
+"startColumn":  51,
+"endLine":  180,
+"endColumn":  60
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MemberConfigurationExpression.cs#L180",
+"region":  {
+"startLine":  180,
+"startColumn":  21,
+"endLine":  180,
+"endColumn":  30
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'nullSubstitute' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MemberConfigurationExpression.cs#L37",
+"region":  {
+"startLine":  37,
+"startColumn":  43,
+"endLine":  37,
+"endColumn":  57
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MemberConfigurationExpression.cs#L37",
+"region":  {
+"startLine":  37,
+"startColumn":  21,
+"endLine":  37,
+"endColumn":  35
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'condition' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/PathConfigurationExpression.cs#L100",
+"region":  {
+"startLine":  100,
+"startColumn":  95,
+"endLine":  100,
+"endColumn":  104
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/PathConfigurationExpression.cs#L100",
+"region":  {
+"startLine":  100,
+"startColumn":  21,
+"endLine":  100,
+"endColumn":  30
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'condition' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/PathConfigurationExpression.cs#L28",
+"region":  {
+"startLine":  28,
+"startColumn":  88,
+"endLine":  28,
+"endColumn":  97
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/PathConfigurationExpression.cs#L28",
+"region":  {
+"startLine":  28,
+"startColumn":  14,
+"endLine":  28,
+"endColumn":  23
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'replace' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Execution/ExpressionBuilder.cs#L325",
+"region":  {
+"startLine":  325,
+"startColumn":  90,
+"endLine":  325,
+"endColumn":  97
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Execution/ExpressionBuilder.cs#L325",
+"region":  {
+"startLine":  325,
+"startColumn":  34,
+"endLine":  325,
+"endColumn":  41
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'validator' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Internal/InternalApi.cs#L38",
+"region":  {
+"startLine":  38,
+"startColumn":  34,
+"endLine":  38,
+"endColumn":  43
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Internal/InternalApi.cs#L38",
+"region":  {
+"startLine":  38,
+"startColumn":  14,
+"endLine":  38,
+"endColumn":  23
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'postfixes' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Internal/TypeDetails.cs#L93",
+"region":  {
+"startLine":  93,
+"startColumn":  67,
+"endLine":  93,
+"endColumn":  76
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Internal/TypeDetails.cs#L93",
+"region":  {
+"startLine":  93,
+"startColumn":  44,
+"endLine":  93,
+"endColumn":  53
+}
+}
+]
+}
+]
+}

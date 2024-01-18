@@ -1,0 +1,56 @@
+{
+"issues":  [
+{
+"id":  "S2375",
+"message":  "Wrap this and the following 9 statements that use 'dtMovies.Columns' in a 'With' statement.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.BulkRename/clsAPIRenamer.vb#L554",
+"region":  {
+"startLine":  554,
+"startColumn":  9,
+"endLine":  554,
+"endColumn":  89
+}
+}
+},
+{
+"id":  "S2375",
+"message":  "Wrap this and the following 11 statements that use 'Master.eLang' in a 'With' statement.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.BulkRename/dlgBulkRename.vb#L463",
+"region":  {
+"startLine":  463,
+"startColumn":  9,
+"endLine":  463,
+"endColumn":  84
+}
+}
+},
+{
+"id":  "S2375",
+"message":  "Wrap this and the following 10 statements that use 'Master.eLang' in a 'With' statement.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.BulkRename/dlgTVBulkRename.vb#L24",
+"region":  {
+"startLine":  24,
+"startColumn":  9,
+"endLine":  24,
+"endColumn":  88
+}
+}
+},
+{
+"id":  "S2375",
+"message":  "Wrap this and the following 8 statements that use 'Master.eLang' in a 'With' statement.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.BulkRename/frmSettingsHolder.vb#L60",
+"region":  {
+"startLine":  60,
+"startColumn":  9,
+"endLine":  60,
+"endColumn":  111
+}
+}
+}
+]
+}

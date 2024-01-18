@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3011",
+"message":  "Make sure that this accessibility bypass is safe here.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/IO/IPExtensions.cs#L32",
+"region":  {
+"startLine":  32,
+"startColumn":  84,
+"endLine":  32,
+"endColumn":  106
+}
+}
+}
+]
+}

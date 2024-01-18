@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S4004",
+"message":  "Make the 'Headers' property read-only by removing the property setter or making it private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/IBrowserContextValues.cs#L33",
+"region":  {
+"startLine":  33,
+"startColumn":  50,
+"endLine":  33,
+"endColumn":  57
+}
+}
+}
+]
+}

@@ -1,0 +1,69 @@
+{
+"issues":  [
+{
+"id":  "S2077",
+"message":  "Make sure using a dynamically formatted SQL query is safe here.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/TVScraper/clsScrapeTVDB.vb#L193",
+"region":  {
+"startLine":  193,
+"startColumn":  25,
+"endLine":  193,
+"endColumn":  45
+}
+}
+},
+{
+"id":  "S2077",
+"message":  "Make sure using a dynamically formatted SQL query is safe here.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/TVScraper/clsScrapeTVDB.vb#L195",
+"region":  {
+"startLine":  195,
+"startColumn":  25,
+"endLine":  195,
+"endColumn":  45
+}
+}
+},
+{
+"id":  "S2077",
+"message":  "Make sure using a dynamically formatted SQL query is safe here.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/TVScraper/clsScrapeTVDB.vb#L201",
+"region":  {
+"startLine":  201,
+"startColumn":  37,
+"endLine":  201,
+"endColumn":  59
+}
+}
+},
+{
+"id":  "S2077",
+"message":  "Make sure using a dynamically formatted SQL query is safe here.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/TVScraper/clsScrapeTVDB.vb#L203",
+"region":  {
+"startLine":  203,
+"startColumn":  37,
+"endLine":  203,
+"endColumn":  59
+}
+}
+},
+{
+"id":  "S2077",
+"message":  "Make sure using a dynamically formatted SQL query is safe here.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/TVScraper/clsScrapeTVDB.vb#L825",
+"region":  {
+"startLine":  825,
+"startColumn":  25,
+"endLine":  825,
+"endColumn":  47
+}
+}
+}
+]
+}

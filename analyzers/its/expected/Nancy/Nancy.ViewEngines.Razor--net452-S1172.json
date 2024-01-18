@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S1172",
+"message":  "Remove this unused method parameter 'name'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.ViewEngines.Razor/NancyRazorViewBase.cs#L201",
+"region":  {
+"startLine":  201,
+"startColumn":  39,
+"endLine":  201,
+"endColumn":  50
+}
+}
+},
+{
+"id":  "S1172",
+"message":  "Remove this unused method parameter 'referencingAssembly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.ViewEngines.Razor/RazorViewEngine.cs#L134",
+"region":  {
+"startLine":  134,
+"startColumn":  88,
+"endLine":  134,
+"endColumn":  116
+}
+}
+}
+]
+}

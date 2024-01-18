@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S3249",
+"message":  "Remove this 'base' call to 'object.Equals', which is directly based on the object reference.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/Bootstrapper/NancyBootstrapperBase.cs#L456",
+"region":  {
+"startLine":  456,
+"startColumn":  20,
+"endLine":  456,
+"endColumn":  36
+}
+}
+},
+{
+"id":  "S3249",
+"message":  "Remove this 'base' call to 'object.GetHashCode', which is directly based on the object reference.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/Bootstrapper/NancyBootstrapperBase.cs#L465",
+"region":  {
+"startLine":  465,
+"startColumn":  20,
+"endLine":  465,
+"endColumn":  38
+}
+}
+}
+]
+}

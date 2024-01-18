@@ -1,0 +1,199 @@
+{
+"issues":  [
+{
+"id":  "S2933",
+"message":  "Make 'rootPath' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/DefaultStaticContentProvider.cs#L13",
+"region":  {
+"startLine":  13,
+"startColumn":  24,
+"endLine":  13,
+"endColumn":  32
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make 'propertyInfo' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/ModelBinding/BindingMemberInfo.cs#L13",
+"region":  {
+"startLine":  13,
+"startColumn":  22,
+"endLine":  13,
+"endColumn":  34
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make 'fieldInfo' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/ModelBinding/BindingMemberInfo.cs#L14",
+"region":  {
+"startLine":  14,
+"startColumn":  19,
+"endLine":  14,
+"endColumn":  28
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make 'routeSegmentConstraints' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/Routing/Trie/Nodes/CaptureNodeWithMultipleParameters.cs#L26",
+"region":  {
+"startLine":  26,
+"startColumn":  54,
+"endLine":  26,
+"endColumn":  77
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make 'segmentMatch' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/Routing/Trie/Nodes/RootNode.cs#L10",
+"region":  {
+"startLine":  10,
+"startColumn":  30,
+"endLine":  10,
+"endColumn":  42
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_Container' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/TinyIoc/TinyIoC.cs#L995",
+"region":  {
+"startLine":  995,
+"startColumn":  38,
+"endLine":  995,
+"endColumn":  48
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_Registration' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/TinyIoc/TinyIoC.cs#L996",
+"region":  {
+"startLine":  996,
+"startColumn":  38,
+"endLine":  996,
+"endColumn":  51
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_factory' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/TinyIoc/TinyIoC.cs#L2756",
+"region":  {
+"startLine":  2756,
+"startColumn":  77,
+"endLine":  2756,
+"endColumn":  85
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_factory' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/TinyIoc/TinyIoC.cs#L2814",
+"region":  {
+"startLine":  2814,
+"startColumn":  35,
+"endLine":  2814,
+"endColumn":  43
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_instance' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/TinyIoc/TinyIoC.cs#L2881",
+"region":  {
+"startLine":  2881,
+"startColumn":  28,
+"endLine":  2881,
+"endColumn":  37
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_hashCode' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/TinyIoc/TinyIoC.cs#L3218",
+"region":  {
+"startLine":  3218,
+"startColumn":  25,
+"endLine":  3218,
+"endColumn":  34
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_Parent' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/TinyIoc/TinyIoC.cs#L3272",
+"region":  {
+"startLine":  3272,
+"startColumn":  26,
+"endLine":  3272,
+"endColumn":  33
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make 'textResourceFinder' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/ViewEngines/DefaultRenderContext.cs#L23",
+"region":  {
+"startLine":  23,
+"startColumn":  36,
+"endLine":  23,
+"endColumn":  54
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make 'renderContext' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/ViewEngines/SuperSimpleViewEngine/NancyViewEngineHost.cs#L11",
+"region":  {
+"startLine":  11,
+"startColumn":  32,
+"endLine":  11,
+"endColumn":  45
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make 'message' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/ViewEngines/ViewNotFoundException.cs#L37",
+"region":  {
+"startLine":  37,
+"startColumn":  24,
+"endLine":  37,
+"endColumn":  31
+}
+}
+}
+]
+}

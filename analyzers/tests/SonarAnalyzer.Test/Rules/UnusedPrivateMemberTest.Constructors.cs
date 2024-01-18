@@ -1,0 +1,173 @@
+﻿/*
+ * SonarAnalyzer for .NET
+ * Copyright (C) 2015-2024 SonarSource SA
+ * mailto: contact AT sonarsource DOT com
+ *
+ * This program is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 3 of the License, or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this program; if not, write to the Free Software Foundation,
+ * Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+ */
+
+namespace SonarAnalyzer.Test.Rules
+{
+    public partial class UnusedPrivateMemberTest
+    {
+        [TestMethod]
+        public void UnusedPrivateMember_Constructor_Accessibility() =>
+            builder.AddSnippet(@"
+public class PrivateConstructors
+{
+    private PrivateConstructors(int i) { var x = 5; } // Noncompliant {{Remove the unused private constructor 'PrivateConstructors'.}}
+//          ^^^^^^^^^^^^^^^^^^^
+    static PrivateConstructors() { var x = 5; }
+
+    private class InnerPrivateClass // Noncompliant
+    {
+        internal InnerPrivateClass(int i) { var x = 5; } // Noncompliant
+        protected InnerPrivateClass(string s) { var x = 5; } // Noncompliant
+        protected internal InnerPrivateClass(double d) { var x = 5; } // Noncompliant
+        public InnerPrivateClass(char c) { var x = 5; } // Noncompliant
+    }
+
+    private class OtherPrivateClass // Noncompliant
+    {
+        private OtherPrivateClass() { var x = 5; } // Noncompliant
+    }
+}
+
+public class NonPrivateMembers
+{
+    internal NonPrivateMembers(int i) { var x = 5; }
+    protected NonPrivateMembers(string s) { var x = 5; }
+    protected internal NonPrivateMembers(double d) { var x = 5; }
+    public NonPrivateMembers(char c) { var x = 5; }
+
+    public class InnerPublicClass
+    {
+        internal InnerPublicClass(int i) { var x = 5; }
+        protected InnerPublicClass(string s) { var x = 5; }
+        protected internal InnerPublicClass(double d) { var x = 5; }
+        public InnerPublicClass(char c) { var x = 5; }
+    }
+}
+").Verify();
+
+        [TestMethod]
+        public void UnusedPrivateMember_Constructor_DirectReferences() =>
+            builder.AddSnippet(@"
+public abstract class PrivateConstructors
+{
+    public class Constructor1
+    {
+        public static readonly Constructor1 Instance = new Constructor1();
+        private Constructor1() { var x = 5; }
+    }
+
+    public class Constructor2
+    {
+        public Constructor2(int a) { }
+        private Constructor2() { var x = 5; } // Compliant - FN
+    }
+
+    public class Constructor3
+    {
+        public Constructor3(int a) : this() { }
+        private Constructor3() { var x = 5; }
+    }
+
+    public class Constructor4
+    {
+        static Constructor4() { var x = 5; }
+    }
+}
+").Verify();
+
+        [TestMethod]
+        public void UnusedPrivateMember_Constructor_Inheritance() =>
+            builder.AddSnippet(@"
+public class Inheritance
+{
+    private abstract class BaseClass1
+    {
+        protected BaseClass1() { var x = 5; }
+    }
+
+    private class DerivedClass1 : BaseClass1 // Noncompliant {{Remove the unused private class 'DerivedClass1'.}}
+    {
+        public DerivedClass1() : base() { }
+    }
+
+    // https://github.com/SonarSource/sonar-dotnet/issues/1398
+    private abstract class BaseClass2
+    {
+        protected BaseClass2() { var x = 5; }
+    }
+
+    private class DerivedClass2 : BaseClass2 // Noncompliant {{Remove the unused private class 'DerivedClass2'.}}
+    {
+        public DerivedClass2() { }
+    }
+}
+").Verify();
+
+        [TestMethod]
+        public void UnusedPrivateMember_Empty_Constructors() =>
+            builder.AddSnippet(@"
+public class PrivateConstructors
+{
+    private PrivateConstructors(int i) { } // Compliant, empty ctors are reported from another rule
+}
+").Verify();
+
+        [TestMethod]
+        public void UnusedPrivateMember_Illegal_Interface_Constructor() =>
+            // While typing code in IDE, we can end up in a state where an interface has a constructor defined.
+            // Even though this results in a compiler error (CS0526), IDE will still trigger rules on the interface.
+            builder.AddSnippet(@"
+public interface IInterface
+{
+    // UnusedPrivateMember rule does not trigger AD0001 error from NullReferenceException
+    IInterface() {} // Error [CS0526]
+}
+").WithErrorBehavior(CompilationErrorBehavior.Ignore).Verify();
+
+#if NET
+
+        [TestMethod]
+        public void UnusedPrivateMember_RecordPositionalConstructor() =>
+            builder.AddSnippet(@"
+// https://github.com/SonarSource/sonar-dotnet/issues/5381
+public abstract record Foo
+{
+    Foo(string value)
+    {
+        Value = value;
+    }
+
+    public string Value { get; }
+
+    public sealed record Bar(string Value) : Foo(Value);
+}").WithOptions(ParseOptionsHelper.FromCSharp9).Verify();
+
+        [TestMethod]
+        public void UnusedPrivateMember_NonExistentRecordPositionalConstructor() =>
+        builder.AddSnippet(@"
+public abstract record Foo
+{
+    public sealed record Bar(string Value) : RandomRecord(Value); // Error [CS0115] no suitable method found to override
+}").WithOptions(ParseOptionsHelper.FromCSharp10).WithErrorBehavior(CompilationErrorBehavior.Ignore).Verify();
+
+#endif
+
+    }
+}

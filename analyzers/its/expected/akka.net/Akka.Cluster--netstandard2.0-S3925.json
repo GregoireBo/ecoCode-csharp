@@ -1,0 +1,28 @@
+{
+"issues":  [
+{
+"id":  "S3925",
+"message":  "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Cluster/Cluster.cs#L714",
+"region":  {
+"startLine":  714,
+"startColumn":  18,
+"endLine":  714,
+"endColumn":  44
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Cluster/Cluster.cs#L714",
+"region":  {
+"startLine":  714,
+"startColumn":  12,
+"endLine":  714,
+"endColumn":  17
+}
+}
+]
+}
+]
+}

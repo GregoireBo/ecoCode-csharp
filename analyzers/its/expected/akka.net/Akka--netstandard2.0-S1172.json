@@ -1,0 +1,56 @@
+{
+"issues":  [
+{
+"id":  "S1172",
+"message":  "Remove this parameter 'other', whose value is ignored in the method.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/Props.cs#L294",
+"region":  {
+"startLine":  294,
+"startColumn":  48,
+"endLine":  294,
+"endColumn":  59
+}
+}
+},
+{
+"id":  "S1172",
+"message":  "Remove this unused method parameter 'limit'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/IO/TcpListener.cs#L68",
+"region":  {
+"startLine":  68,
+"startColumn":  58,
+"endLine":  68,
+"endColumn":  67
+}
+}
+},
+{
+"id":  "S1172",
+"message":  "Remove this unused method parameter 'address'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/IO/UdpConnection.cs#L72",
+"region":  {
+"startLine":  72,
+"startColumn":  32,
+"endLine":  72,
+"endColumn":  48
+}
+}
+},
+{
+"id":  "S1172",
+"message":  "Remove this unused method parameter 'capturedArguments'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Util/MatchHandler/CachedMatchCompiler.cs#L67",
+"region":  {
+"startLine":  67,
+"startColumn":  81,
+"endLine":  67,
+"endColumn":  122
+}
+}
+}
+]
+}

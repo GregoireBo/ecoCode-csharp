@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S1144",
+"message":  "Remove the unused private field '_log'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Cluster/ClusterDaemon.cs#L828",
+"region":  {
+"startLine":  828,
+"startColumn":  9,
+"endLine":  828,
+"endColumn":  69
+}
+}
+},
+{
+"id":  "S1144",
+"message":  "Remove the unused private method 'ClearState'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Cluster/ClusterEvent.cs#L1113",
+"region":  {
+"startLine":  1113,
+"startColumn":  22,
+"endLine":  1113,
+"endColumn":  32
+}
+}
+}
+]
+}

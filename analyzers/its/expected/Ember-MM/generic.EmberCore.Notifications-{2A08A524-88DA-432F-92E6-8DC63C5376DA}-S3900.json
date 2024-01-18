@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3900",
+"message":  "Refactor this method to add validation of parameter '_params' before using it.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.Notifications/Module.Notifications.vb#L112",
+"region":  {
+"startLine":  112,
+"startColumn":  26,
+"endLine":  112,
+"endColumn":  33
+}
+}
+}
+]
+}

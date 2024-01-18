@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3254",
+"message":  "Remove this default value assigned to parameter 'default'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Persistence.Query/PersistenceQuery.cs#L50",
+"region":  {
+"startLine":  50,
+"startColumn":  66,
+"endLine":  50,
+"endColumn":  70
+}
+}
+}
+]
+}

@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S139",
+"message":  "Move this trailing comment on the previous empty line.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.WebServer/Server/clsServer.vb#L184",
+"region":  {
+"startLine":  184,
+"startColumn":  68,
+"endLine":  184,
+"endColumn":  103
+}
+}
+}
+]
+}

@@ -1,0 +1,52 @@
+{
+"issues":  [
+{
+"id":  "S2583",
+"message":  "Change this condition so that it does not always evaluate to 'False'. Some code paths are unreachable.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Dispatch/Mailbox.cs#L440",
+"region":  {
+"startLine":  440,
+"startColumn":  17,
+"endLine":  440,
+"endColumn":  37
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Dispatch/Mailbox.cs#L443",
+"region":  {
+"startLine":  443,
+"startColumn":  23,
+"endLine":  443,
+"endColumn":  35
+}
+}
+]
+},
+{
+"id":  "S2583",
+"message":  "Change this condition so that it does not always evaluate to 'True'. Some code paths are unreachable.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Pattern/RetrySupport.cs#L125",
+"region":  {
+"startLine":  125,
+"startColumn":  34,
+"endLine":  125,
+"endColumn":  52
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Pattern/RetrySupport.cs#L128",
+"region":  {
+"startLine":  128,
+"startColumn":  39,
+"endLine":  128,
+"endColumn":  122
+}
+}
+]
+}
+]
+}

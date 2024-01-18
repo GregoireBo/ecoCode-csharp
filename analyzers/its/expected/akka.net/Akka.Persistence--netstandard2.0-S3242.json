@@ -1,0 +1,95 @@
+{
+"issues":  [
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'System.Exception' instead of 'Akka.Pattern.IllegalStateException'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Persistence/Journal/ReplayFilter.cs#L289",
+"region":  {
+"startLine":  289,
+"startColumn":  49,
+"endLine":  289,
+"endColumn":  54
+}
+}
+},
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'System.Collections.IEnumerable' instead of 'System.Collections.Generic.IEnumerable<Akka.Persistence.IPersistentEnvelope>'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Persistence/Journal/WriteJournal.cs#L37",
+"region":  {
+"startLine":  37,
+"startColumn":  100,
+"endLine":  37,
+"endColumn":  115
+}
+}
+},
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'Akka.Persistence.IPersistentRepresentation' instead of 'Akka.Persistence.Persistent'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Persistence/Persistent.cs#L398",
+"region":  {
+"startLine":  398,
+"startColumn":  39,
+"endLine":  398,
+"endColumn":  44
+}
+}
+},
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'Akka.Tools.MatchHandler.MatchBuilder<object>' instead of 'Akka.Tools.MatchHandler.MatchBuilder'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Persistence/PersistentActor.cs#L360",
+"region":  {
+"startLine":  360,
+"startColumn":  75,
+"endLine":  360,
+"endColumn":  87
+}
+}
+},
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'Akka.Persistence.IPersistentEnvelope' instead of 'Akka.Persistence.AtomicWrite'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Persistence/Serialization/PersistenceMessageSerializer.cs#L92",
+"region":  {
+"startLine":  92,
+"startColumn":  66,
+"endLine":  92,
+"endColumn":  71
+}
+}
+},
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'System.IO.FileSystemInfo' instead of 'System.IO.FileInfo'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Persistence/Snapshot/LocalSnapshotStore.cs#L283",
+"region":  {
+"startLine":  283,
+"startColumn":  67,
+"endLine":  283,
+"endColumn":  75
+}
+}
+},
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'System.IO.FileSystemInfo' instead of 'System.IO.FileInfo'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Persistence/Snapshot/LocalSnapshotStore.cs#L338",
+"region":  {
+"startLine":  338,
+"startColumn":  71,
+"endLine":  338,
+"endColumn":  79
+}
+}
+}
+]
+}

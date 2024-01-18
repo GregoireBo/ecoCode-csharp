@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3993",
+"message":  "Specify AttributeUsage on 'MyAttribute'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net6/Net6/GenericAttributes.cs#L4",
+"region":  {
+"startLine":  4,
+"startColumn":  18,
+"endLine":  4,
+"endColumn":  29
+}
+}
+}
+]
+}

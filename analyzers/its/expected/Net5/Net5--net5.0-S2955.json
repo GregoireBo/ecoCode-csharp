@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2955",
+"message":  "Use a comparison to 'default(T)' instead or add a constraint to 'T' so that it can't be a value type.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5/Records.cs#L123",
+"region":  {
+"startLine":  123,
+"startColumn":  26,
+"endLine":  123,
+"endColumn":  30
+}
+}
+}
+]
+}

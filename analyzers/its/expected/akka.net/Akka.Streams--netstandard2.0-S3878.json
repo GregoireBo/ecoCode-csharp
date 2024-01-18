@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3878",
+"message":  "Remove this array creation and simply pass the elements.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Streams/ActorMaterializer.cs#L633-L645",
+"region":  {
+"startLine":  633,
+"startColumn":  35,
+"endLine":  645,
+"endColumn":  18
+}
+}
+}
+]
+}

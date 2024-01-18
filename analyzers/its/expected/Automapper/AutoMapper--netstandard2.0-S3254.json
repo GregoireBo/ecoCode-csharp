@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3254",
+"message":  "Remove this default value assigned to parameter 'typeMapsPath'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MapperConfiguration.cs#L258",
+"region":  {
+"startLine":  258,
+"startColumn":  44,
+"endLine":  258,
+"endColumn":  48
+}
+}
+}
+]
+}

@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S3871",
+"message":  "Make this exception 'public'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Ember.Plugins/PluginSectionHandler.cs#L113",
+"region":  {
+"startLine":  113,
+"startColumn":  23,
+"endLine":  113,
+"endColumn":  45
+}
+}
+},
+{
+"id":  "S3871",
+"message":  "Make this exception 'public'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Ember.Plugins/PluginSectionHandler.cs#L114",
+"region":  {
+"startLine":  114,
+"startColumn":  23,
+"endLine":  114,
+"endColumn":  44
+}
+}
+}
+]
+}

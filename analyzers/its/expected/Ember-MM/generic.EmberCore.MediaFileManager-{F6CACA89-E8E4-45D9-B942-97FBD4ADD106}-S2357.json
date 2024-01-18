@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S2357",
+"message":  "Make 'FolderPath' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.MediaFileManager/Module.MediaFileManagerModule.vb#L394",
+"region":  {
+"startLine":  394,
+"startColumn":  16,
+"endLine":  394,
+"endColumn":  26
+}
+}
+},
+{
+"id":  "S2357",
+"message":  "Make 'Name' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.MediaFileManager/Module.MediaFileManagerModule.vb#L395",
+"region":  {
+"startLine":  395,
+"startColumn":  16,
+"endLine":  395,
+"endColumn":  20
+}
+}
+}
+]
+}

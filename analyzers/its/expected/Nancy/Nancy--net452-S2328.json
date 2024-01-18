@@ -1,0 +1,28 @@
+{
+"issues":  [
+{
+"id":  "S2328",
+"message":  "Refactor 'GetHashCode' to not reference mutable fields.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/TinyIoc/TinyIoC.cs#L3252",
+"region":  {
+"startLine":  3252,
+"startColumn":  33,
+"endLine":  3252,
+"endColumn":  44
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/TinyIoc/TinyIoC.cs#L3254",
+"region":  {
+"startLine":  3254,
+"startColumn":  24,
+"endLine":  3254,
+"endColumn":  33
+}
+}
+]
+}
+]
+}

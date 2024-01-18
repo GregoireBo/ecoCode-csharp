@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3267",
+"message":  "Loop should be simplified by calling Select(registrationType => registrationType.ModuleType))",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Hosting.Aspnet/DefaultNancyAspNetBootstrapper.cs#L231",
+"region":  {
+"startLine":  231,
+"startColumn":  46,
+"endLine":  231,
+"endColumn":  69
+}
+}
+}
+]
+}

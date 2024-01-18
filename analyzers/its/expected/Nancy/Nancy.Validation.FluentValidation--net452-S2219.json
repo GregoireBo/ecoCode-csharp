@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2219",
+"message":  "Use the 'IsInstanceOfType()' method instead.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Validation.FluentValidation/FluentValidationValidatorFactory.cs#L49",
+"region":  {
+"startLine":  49,
+"startColumn":  37,
+"endLine":  49,
+"endColumn":  97
+}
+}
+}
+]
+}

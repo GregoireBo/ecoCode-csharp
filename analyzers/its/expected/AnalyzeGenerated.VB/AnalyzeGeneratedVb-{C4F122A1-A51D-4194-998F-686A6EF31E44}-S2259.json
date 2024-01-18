@@ -1,0 +1,95 @@
+{
+"issues":  [
+{
+"id":  "S2259",
+"message":  "'obj' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/GeneratedCode.VB/CompilerGenerated.vb#L7",
+"region":  {
+"startLine":  7,
+"startColumn":  27,
+"endLine":  7,
+"endColumn":  30
+}
+}
+},
+{
+"id":  "S2259",
+"message":  "'obj' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/GeneratedCode.VB/GeneratedCode.vb#L7",
+"region":  {
+"startLine":  7,
+"startColumn":  27,
+"endLine":  7,
+"endColumn":  30
+}
+}
+},
+{
+"id":  "S2259",
+"message":  "'obj' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/GeneratedCode.VB/Module.g.vb#L7",
+"region":  {
+"startLine":  7,
+"startColumn":  27,
+"endLine":  7,
+"endColumn":  30
+}
+}
+},
+{
+"id":  "S2259",
+"message":  "'obj' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/GeneratedCode.VB/Module1.vb#L9",
+"region":  {
+"startLine":  9,
+"startColumn":  27,
+"endLine":  9,
+"endColumn":  30
+}
+}
+},
+{
+"id":  "S2259",
+"message":  "'obj' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/GeneratedCode.VB/NotIgnored.vb#L8",
+"region":  {
+"startLine":  8,
+"startColumn":  31,
+"endLine":  8,
+"endColumn":  34
+}
+}
+},
+{
+"id":  "S2259",
+"message":  "'obj' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/GeneratedCode.VB/Region.vb#L6",
+"region":  {
+"startLine":  6,
+"startColumn":  27,
+"endLine":  6,
+"endColumn":  30
+}
+}
+},
+{
+"id":  "S2259",
+"message":  "'obj' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/GeneratedCode.VB/TEMPORARYGENERATEDFILE_Class.vb#L6",
+"region":  {
+"startLine":  6,
+"startColumn":  27,
+"endLine":  6,
+"endColumn":  30
+}
+}
+}
+]
+}

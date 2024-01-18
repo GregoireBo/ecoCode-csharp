@@ -1,0 +1,1372 @@
+{
+"issues":  [
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'body' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L100",
+"region":  {
+"startLine":  100,
+"startColumn":  33,
+"endLine":  100,
+"endColumn":  37
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L100",
+"region":  {
+"startLine":  100,
+"startColumn":  21,
+"endLine":  100,
+"endColumn":  25
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'body' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L111",
+"region":  {
+"startLine":  111,
+"startColumn":  33,
+"endLine":  111,
+"endColumn":  37
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L111",
+"region":  {
+"startLine":  111,
+"startColumn":  21,
+"endLine":  111,
+"endColumn":  25
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'userHostAddress' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L185",
+"region":  {
+"startLine":  185,
+"startColumn":  44,
+"endLine":  185,
+"endColumn":  59
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L185",
+"region":  {
+"startLine":  185,
+"startColumn":  21,
+"endLine":  185,
+"endColumn":  36
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'hostName' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L194",
+"region":  {
+"startLine":  194,
+"startColumn":  37,
+"endLine":  194,
+"endColumn":  45
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L194",
+"region":  {
+"startLine":  194,
+"startColumn":  21,
+"endLine":  194,
+"endColumn":  29
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'certificate' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L226",
+"region":  {
+"startLine":  226,
+"startColumn":  40,
+"endLine":  226,
+"endColumn":  51
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L226",
+"region":  {
+"startLine":  226,
+"startColumn":  21,
+"endLine":  226,
+"endColumn":  32
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'certificate' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L235",
+"region":  {
+"startLine":  235,
+"startColumn":  50,
+"endLine":  235,
+"endColumn":  61
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L235",
+"region":  {
+"startLine":  235,
+"startColumn":  21,
+"endLine":  235,
+"endColumn":  32
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'body' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L90",
+"region":  {
+"startLine":  90,
+"startColumn":  33,
+"endLine":  90,
+"endColumn":  37
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContext.cs#L90",
+"region":  {
+"startLine":  90,
+"startColumn":  21,
+"endLine":  90,
+"endColumn":  25
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'multipartFormData' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContextExtensions.cs#L28",
+"region":  {
+"startLine":  28,
+"startColumn":  114,
+"endLine":  28,
+"endColumn":  131
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContextExtensions.cs#L28",
+"region":  {
+"startLine":  28,
+"startColumn":  28,
+"endLine":  28,
+"endColumn":  45
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'multipartFormData' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContextExtensions.cs#L39",
+"region":  {
+"startLine":  39,
+"startColumn":  114,
+"endLine":  39,
+"endColumn":  131
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserContextExtensions.cs#L39",
+"region":  {
+"startLine":  39,
+"startColumn":  28,
+"endLine":  39,
+"endColumn":  45
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'modules' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1005",
+"region":  {
+"startLine":  1005,
+"startColumn":  79,
+"endLine":  1005,
+"endColumn":  86
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1005",
+"region":  {
+"startLine":  1005,
+"startColumn":  57,
+"endLine":  1005,
+"endColumn":  64
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'nancyModuleBuilder' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1045",
+"region":  {
+"startLine":  1045,
+"startColumn":  96,
+"endLine":  1045,
+"endColumn":  114
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1045",
+"region":  {
+"startLine":  1045,
+"startColumn":  57,
+"endLine":  1045,
+"endColumn":  75
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'renderContextFactory' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1069",
+"region":  {
+"startLine":  1069,
+"startColumn":  100,
+"endLine":  1069,
+"endColumn":  120
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1069",
+"region":  {
+"startLine":  1069,
+"startColumn":  57,
+"endLine":  1069,
+"endColumn":  77
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'requestTraceFactory' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1093",
+"region":  {
+"startLine":  1093,
+"startColumn":  98,
+"endLine":  1093,
+"endColumn":  117
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1093",
+"region":  {
+"startLine":  1093,
+"startColumn":  57,
+"endLine":  1093,
+"endColumn":  76
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'responseFormatterFactory' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1117",
+"region":  {
+"startLine":  1117,
+"startColumn":  108,
+"endLine":  1117,
+"endColumn":  132
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1117",
+"region":  {
+"startLine":  1117,
+"startColumn":  57,
+"endLine":  1117,
+"endColumn":  81
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'routeCache' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1141",
+"region":  {
+"startLine":  1141,
+"startColumn":  80,
+"endLine":  1141,
+"endColumn":  90
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1141",
+"region":  {
+"startLine":  1141,
+"startColumn":  57,
+"endLine":  1141,
+"endColumn":  67
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'routeCacheProvider' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1165",
+"region":  {
+"startLine":  1165,
+"startColumn":  96,
+"endLine":  1165,
+"endColumn":  114
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1165",
+"region":  {
+"startLine":  1165,
+"startColumn":  57,
+"endLine":  1165,
+"endColumn":  75
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'rootPathProvider' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1189",
+"region":  {
+"startLine":  1189,
+"startColumn":  92,
+"endLine":  1189,
+"endColumn":  108
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1189",
+"region":  {
+"startLine":  1189,
+"startColumn":  57,
+"endLine":  1189,
+"endColumn":  73
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'routeInvoker' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1226",
+"region":  {
+"startLine":  1226,
+"startColumn":  84,
+"endLine":  1226,
+"endColumn":  96
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1226",
+"region":  {
+"startLine":  1226,
+"startColumn":  57,
+"endLine":  1226,
+"endColumn":  69
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'routeResolver' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1239",
+"region":  {
+"startLine":  1239,
+"startColumn":  86,
+"endLine":  1239,
+"endColumn":  99
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1239",
+"region":  {
+"startLine":  1239,
+"startColumn":  57,
+"endLine":  1239,
+"endColumn":  70
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'modelValidatorLocator' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1263",
+"region":  {
+"startLine":  1263,
+"startColumn":  102,
+"endLine":  1263,
+"endColumn":  123
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1263",
+"region":  {
+"startLine":  1263,
+"startColumn":  57,
+"endLine":  1263,
+"endColumn":  78
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'requestDispatcher' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1287",
+"region":  {
+"startLine":  1287,
+"startColumn":  94,
+"endLine":  1287,
+"endColumn":  111
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1287",
+"region":  {
+"startLine":  1287,
+"startColumn":  57,
+"endLine":  1287,
+"endColumn":  74
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'resourceAssemblyProvider' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1313",
+"region":  {
+"startLine":  1313,
+"startColumn":  108,
+"endLine":  1313,
+"endColumn":  132
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1313",
+"region":  {
+"startLine":  1313,
+"startColumn":  57,
+"endLine":  1313,
+"endColumn":  81
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'resourceReader' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1337",
+"region":  {
+"startLine":  1337,
+"startColumn":  88,
+"endLine":  1337,
+"endColumn":  102
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1337",
+"region":  {
+"startLine":  1337,
+"startColumn":  57,
+"endLine":  1337,
+"endColumn":  71
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'routeDescriptionProvider' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1374",
+"region":  {
+"startLine":  1374,
+"startColumn":  108,
+"endLine":  1374,
+"endColumn":  132
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1374",
+"region":  {
+"startLine":  1374,
+"startColumn":  57,
+"endLine":  1374,
+"endColumn":  81
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'routeMetadataProviders' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1413",
+"region":  {
+"startLine":  1413,
+"startColumn":  94,
+"endLine":  1413,
+"endColumn":  116
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1413",
+"region":  {
+"startLine":  1413,
+"startColumn":  57,
+"endLine":  1413,
+"endColumn":  79
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'routeMetadataProviders' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1426",
+"region":  {
+"startLine":  1426,
+"startColumn":  112,
+"endLine":  1426,
+"endColumn":  134
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1426",
+"region":  {
+"startLine":  1426,
+"startColumn":  57,
+"endLine":  1426,
+"endColumn":  79
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'routeSegmentExtractor' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1455",
+"region":  {
+"startLine":  1455,
+"startColumn":  102,
+"endLine":  1455,
+"endColumn":  123
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1455",
+"region":  {
+"startLine":  1455,
+"startColumn":  57,
+"endLine":  1455,
+"endColumn":  78
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'responseProcessors' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1481",
+"region":  {
+"startLine":  1481,
+"startColumn":  90,
+"endLine":  1481,
+"endColumn":  108
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1481",
+"region":  {
+"startLine":  1481,
+"startColumn":  57,
+"endLine":  1481,
+"endColumn":  75
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'runtimeEnvironmentInformation' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1494",
+"region":  {
+"startLine":  1494,
+"startColumn":  118,
+"endLine":  1494,
+"endColumn":  147
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1494",
+"region":  {
+"startLine":  1494,
+"startColumn":  57,
+"endLine":  1494,
+"endColumn":  86
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'textResource' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1518",
+"region":  {
+"startLine":  1518,
+"startColumn":  84,
+"endLine":  1518,
+"endColumn":  96
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1518",
+"region":  {
+"startLine":  1518,
+"startColumn":  57,
+"endLine":  1518,
+"endColumn":  69
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'viewCache' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1542",
+"region":  {
+"startLine":  1542,
+"startColumn":  78,
+"endLine":  1542,
+"endColumn":  87
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1542",
+"region":  {
+"startLine":  1542,
+"startColumn":  57,
+"endLine":  1542,
+"endColumn":  66
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'viewEngine' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1566",
+"region":  {
+"startLine":  1566,
+"startColumn":  80,
+"endLine":  1566,
+"endColumn":  90
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1566",
+"region":  {
+"startLine":  1566,
+"startColumn":  57,
+"endLine":  1566,
+"endColumn":  67
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'viewEngines' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1592",
+"region":  {
+"startLine":  1592,
+"startColumn":  83,
+"endLine":  1592,
+"endColumn":  94
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1592",
+"region":  {
+"startLine":  1592,
+"startColumn":  57,
+"endLine":  1592,
+"endColumn":  68
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'viewFactory' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1605",
+"region":  {
+"startLine":  1605,
+"startColumn":  82,
+"endLine":  1605,
+"endColumn":  93
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1605",
+"region":  {
+"startLine":  1605,
+"startColumn":  57,
+"endLine":  1605,
+"endColumn":  68
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'viewLocationProvider' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1629",
+"region":  {
+"startLine":  1629,
+"startColumn":  100,
+"endLine":  1629,
+"endColumn":  120
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1629",
+"region":  {
+"startLine":  1629,
+"startColumn":  57,
+"endLine":  1629,
+"endColumn":  77
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'viewLocator' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1653",
+"region":  {
+"startLine":  1653,
+"startColumn":  82,
+"endLine":  1653,
+"endColumn":  93
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1653",
+"region":  {
+"startLine":  1653,
+"startColumn":  57,
+"endLine":  1653,
+"endColumn":  68
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'viewResolver' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1677",
+"region":  {
+"startLine":  1677,
+"startColumn":  84,
+"endLine":  1677,
+"endColumn":  96
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1677",
+"region":  {
+"startLine":  1677,
+"startColumn":  57,
+"endLine":  1677,
+"endColumn":  69
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'objectSerializer' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1725",
+"region":  {
+"startLine":  1725,
+"startColumn":  92,
+"endLine":  1725,
+"endColumn":  108
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1725",
+"region":  {
+"startLine":  1725,
+"startColumn":  57,
+"endLine":  1725,
+"endColumn":  73
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'serializers' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1761",
+"region":  {
+"startLine":  1761,
+"startColumn":  83,
+"endLine":  1761,
+"endColumn":  94
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1761",
+"region":  {
+"startLine":  1761,
+"startColumn":  57,
+"endLine":  1761,
+"endColumn":  68
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'diagnostics' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1772",
+"region":  {
+"startLine":  1772,
+"startColumn":  82,
+"endLine":  1772,
+"endColumn":  93
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1772",
+"region":  {
+"startLine":  1772,
+"startColumn":  57,
+"endLine":  1772,
+"endColumn":  68
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'cultureService' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1796",
+"region":  {
+"startLine":  1796,
+"startColumn":  88,
+"endLine":  1796,
+"endColumn":  102
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1796",
+"region":  {
+"startLine":  1796,
+"startColumn":  57,
+"endLine":  1796,
+"endColumn":  71
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'staticContentProvider' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1820",
+"region":  {
+"startLine":  1820,
+"startColumn":  102,
+"endLine":  1820,
+"endColumn":  123
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1820",
+"region":  {
+"startLine":  1820,
+"startColumn":  57,
+"endLine":  1820,
+"endColumn":  78
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'routeResolverTrie' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1844",
+"region":  {
+"startLine":  1844,
+"startColumn":  94,
+"endLine":  1844,
+"endColumn":  111
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L1844",
+"region":  {
+"startLine":  1844,
+"startColumn":  57,
+"endLine":  1844,
+"endColumn":  74
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'binder' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L639",
+"region":  {
+"startLine":  639,
+"startColumn":  72,
+"endLine":  639,
+"endColumn":  78
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L639",
+"region":  {
+"startLine":  639,
+"startColumn":  57,
+"endLine":  639,
+"endColumn":  63
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'contextFactory' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L675",
+"region":  {
+"startLine":  675,
+"startColumn":  93,
+"endLine":  675,
+"endColumn":  107
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L675",
+"region":  {
+"startLine":  675,
+"startColumn":  57,
+"endLine":  675,
+"endColumn":  71
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'defaultConfigurationProviders' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L711",
+"region":  {
+"startLine":  711,
+"startColumn":  101,
+"endLine":  711,
+"endColumn":  130
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L711",
+"region":  {
+"startLine":  711,
+"startColumn":  57,
+"endLine":  711,
+"endColumn":  86
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'defaultConfigurationProviders' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L735",
+"region":  {
+"startLine":  735,
+"startColumn":  131,
+"endLine":  735,
+"endColumn":  160
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L735",
+"region":  {
+"startLine":  735,
+"startColumn":  57,
+"endLine":  735,
+"endColumn":  86
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'dependencies' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L824",
+"region":  {
+"startLine":  824,
+"startColumn":  84,
+"endLine":  824,
+"endColumn":  96
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L824",
+"region":  {
+"startLine":  824,
+"startColumn":  57,
+"endLine":  824,
+"endColumn":  69
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'dependencies' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L840",
+"region":  {
+"startLine":  840,
+"startColumn":  87,
+"endLine":  840,
+"endColumn":  99
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L840",
+"region":  {
+"startLine":  840,
+"startColumn":  57,
+"endLine":  840,
+"endColumn":  69
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'statusCodeHandlers' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L865",
+"region":  {
+"startLine":  865,
+"startColumn":  90,
+"endLine":  865,
+"endColumn":  108
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L865",
+"region":  {
+"startLine":  865,
+"startColumn":  57,
+"endLine":  865,
+"endColumn":  75
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'environmentConfigurator' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L899",
+"region":  {
+"startLine":  899,
+"startColumn":  111,
+"endLine":  899,
+"endColumn":  134
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L899",
+"region":  {
+"startLine":  899,
+"startColumn":  57,
+"endLine":  899,
+"endColumn":  80
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'environmentFactory' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L912",
+"region":  {
+"startLine":  912,
+"startColumn":  101,
+"endLine":  912,
+"endColumn":  119
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L912",
+"region":  {
+"startLine":  912,
+"startColumn":  57,
+"endLine":  912,
+"endColumn":  75
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'fieldNameConverter' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L936",
+"region":  {
+"startLine":  936,
+"startColumn":  96,
+"endLine":  936,
+"endColumn":  114
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L936",
+"region":  {
+"startLine":  936,
+"startColumn":  57,
+"endLine":  936,
+"endColumn":  75
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'modelBinderLocator' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L960",
+"region":  {
+"startLine":  960,
+"startColumn":  96,
+"endLine":  960,
+"endColumn":  114
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L960",
+"region":  {
+"startLine":  960,
+"startColumn":  57,
+"endLine":  960,
+"endColumn":  75
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'module' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L994",
+"region":  {
+"startLine":  994,
+"startColumn":  77,
+"endLine":  994,
+"endColumn":  83
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableBootstrapper.cs#L994",
+"region":  {
+"startLine":  994,
+"startColumn":  57,
+"endLine":  994,
+"endColumn":  63
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'after' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableNancyModule.cs#L63",
+"region":  {
+"startLine":  63,
+"startColumn":  76,
+"endLine":  63,
+"endColumn":  81
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableNancyModule.cs#L63",
+"region":  {
+"startLine":  63,
+"startColumn":  56,
+"endLine":  63,
+"endColumn":  61
+}
+}
+]
+},
+{
+"id":  "S3872",
+"message":  "Rename the parameter 'before' so that it does not duplicate the method name.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableNancyModule.cs#L75",
+"region":  {
+"startLine":  75,
+"startColumn":  78,
+"endLine":  75,
+"endColumn":  84
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/ConfigurableNancyModule.cs#L75",
+"region":  {
+"startLine":  75,
+"startColumn":  56,
+"endLine":  75,
+"endColumn":  62
+}
+}
+]
+}
+]
+}

@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2326",
+"message":  "'TDestination' is not used in the interface.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L269",
+"region":  {
+"startLine":  269,
+"startColumn":  62,
+"endLine":  269,
+"endColumn":  74
+}
+}
+}
+]
+}

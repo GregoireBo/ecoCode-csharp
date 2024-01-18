@@ -1,0 +1,160 @@
+{
+"issues":  [
+{
+"id":  "S2357",
+"message":  "Make 'IMDBURL' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/Scraper/clsScrapeIMDB.vb#L77",
+"region":  {
+"startLine":  77,
+"startColumn":  16,
+"endLine":  77,
+"endColumn":  23
+}
+}
+},
+{
+"id":  "S2357",
+"message":  "Make 'UseOFDBGenre' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/Scraper/clsScrapeIMDB.vb#L78",
+"region":  {
+"startLine":  78,
+"startColumn":  16,
+"endLine":  78,
+"endColumn":  28
+}
+}
+},
+{
+"id":  "S2357",
+"message":  "Make 'UseOFDBOutline' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/Scraper/clsScrapeIMDB.vb#L79",
+"region":  {
+"startLine":  79,
+"startColumn":  16,
+"endLine":  79,
+"endColumn":  30
+}
+}
+},
+{
+"id":  "S2357",
+"message":  "Make 'UseOFDBPlot' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/Scraper/clsScrapeIMDB.vb#L80",
+"region":  {
+"startLine":  80,
+"startColumn":  16,
+"endLine":  80,
+"endColumn":  27
+}
+}
+},
+{
+"id":  "S2357",
+"message":  "Make 'UseOFDBTitle' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/Scraper/clsScrapeIMDB.vb#L81",
+"region":  {
+"startLine":  81,
+"startColumn":  16,
+"endLine":  81,
+"endColumn":  28
+}
+}
+},
+{
+"id":  "S2357",
+"message":  "Make 'IMDBURL' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/Scraper/clsScrapeIMPA.vb#L33",
+"region":  {
+"startLine":  33,
+"startColumn":  16,
+"endLine":  33,
+"endColumn":  23
+}
+}
+},
+{
+"id":  "S2357",
+"message":  "Make 'IMDBURL' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/Scraper/clsScrapeMPDB.vb#L33",
+"region":  {
+"startLine":  33,
+"startColumn":  16,
+"endLine":  33,
+"endColumn":  23
+}
+}
+},
+{
+"id":  "S2357",
+"message":  "Make 'IMDBURL' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/Scraper/clsScrapeTMDB.vb#L29",
+"region":  {
+"startLine":  29,
+"startColumn":  16,
+"endLine":  29,
+"endColumn":  23
+}
+}
+},
+{
+"id":  "S2357",
+"message":  "Make 'IMDBURL' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/Scraper/clsScrapeTrailers.vb#L33",
+"region":  {
+"startLine":  33,
+"startColumn":  12,
+"endLine":  33,
+"endColumn":  19
+}
+}
+},
+{
+"id":  "S2357",
+"message":  "Make 'IMDBURL' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/Scraper/dlgIMDBSearchResults.vb#L28",
+"region":  {
+"startLine":  28,
+"startColumn":  12,
+"endLine":  28,
+"endColumn":  19
+}
+}
+},
+{
+"id":  "S2357",
+"message":  "Make 'IMDBURL' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/Scraper/dlgImgSelect.vb#L31",
+"region":  {
+"startLine":  31,
+"startColumn":  12,
+"endLine":  31,
+"endColumn":  19
+}
+}
+},
+{
+"id":  "S2357",
+"message":  "Make 'IMDBURL' private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/scraper.EmberCore/Scraper/dlgTrailer.vb#L29",
+"region":  {
+"startLine":  29,
+"startColumn":  12,
+"endLine":  29,
+"endColumn":  19
+}
+}
+}
+]
+}

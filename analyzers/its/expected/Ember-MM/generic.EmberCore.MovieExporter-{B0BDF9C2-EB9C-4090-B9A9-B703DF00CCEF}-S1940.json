@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S1940",
+"message":  "Use the opposite operator ('<>') instead.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.MovieExport/dlgExportMovies.vb#L498",
+"region":  {
+"startLine":  498,
+"startColumn":  20,
+"endLine":  498,
+"endColumn":  88
+}
+}
+},
+{
+"id":  "S1940",
+"message":  "Use the opposite operator ('<>') instead.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.MovieExport/dlgExportMovies.vb#L826",
+"region":  {
+"startLine":  826,
+"startColumn":  16,
+"endLine":  826,
+"endColumn":  50
+}
+}
+}
+]
+}

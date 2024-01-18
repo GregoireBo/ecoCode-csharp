@@ -1,0 +1,56 @@
+{
+"issues":  [
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'System.Collections.Generic.IEnumerable<Nancy.Testing.NodeWrapper>' instead of 'Nancy.Testing.QueryWrapper'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/AssertExtensions.cs#L51",
+"region":  {
+"startLine":  51,
+"startColumn":  83,
+"endLine":  51,
+"endColumn":  88
+}
+}
+},
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'System.Collections.Generic.IEnumerable<Nancy.Testing.NodeWrapper>' instead of 'Nancy.Testing.QueryWrapper'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/AssertExtensions.cs#L60",
+"region":  {
+"startLine":  60,
+"startColumn":  87,
+"endLine":  60,
+"endColumn":  92
+}
+}
+},
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'System.Collections.Generic.IEnumerable<byte>' instead of 'Nancy.Testing.BrowserResponseBodyWrapper'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserResponseBodyWrapperExtensions.cs#L21",
+"region":  {
+"startLine":  21,
+"startColumn":  71,
+"endLine":  21,
+"endColumn":  82
+}
+}
+},
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'System.Collections.Generic.IEnumerable<byte>' instead of 'Nancy.Testing.BrowserResponseBodyWrapper'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Testing/BrowserResponseBodyWrapperExtensions.cs#L31",
+"region":  {
+"startLine":  31,
+"startColumn":  71,
+"endLine":  31,
+"endColumn":  82
+}
+}
+}
+]
+}

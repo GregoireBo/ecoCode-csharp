@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S1481",
+"message":  "Remove the unused local variable 'discoveryComplete'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.MultiNodeTestRunner/Discovery.cs#L59",
+"region":  {
+"startLine":  59,
+"startColumn":  48,
+"endLine":  59,
+"endColumn":  65
+}
+}
+}
+]
+}

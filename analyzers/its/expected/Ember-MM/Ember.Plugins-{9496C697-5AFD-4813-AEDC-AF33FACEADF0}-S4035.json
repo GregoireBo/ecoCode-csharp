@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S4035",
+"message":  "Seal class 'EmberPlugin' or implement 'IEqualityComparer<T>' instead.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Ember.Plugins/PluginManager.cs#L231",
+"region":  {
+"startLine":  231,
+"startColumn":  22,
+"endLine":  231,
+"endColumn":  33
+}
+}
+}
+]
+}

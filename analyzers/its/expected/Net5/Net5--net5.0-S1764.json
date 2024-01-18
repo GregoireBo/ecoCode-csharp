@@ -1,0 +1,28 @@
+{
+"issues":  [
+{
+"id":  "S1764",
+"message":  "Correct one of the identical expressions on both sides of operator '=='.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5/Records.cs#L22",
+"region":  {
+"startLine":  22,
+"startColumn":  43,
+"endLine":  22,
+"endColumn":  47
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5/Records.cs#L22",
+"region":  {
+"startLine":  22,
+"startColumn":  35,
+"endLine":  22,
+"endColumn":  39
+}
+}
+]
+}
+]
+}

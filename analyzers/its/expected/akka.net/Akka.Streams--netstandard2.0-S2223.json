@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2223",
+"message":  "Change the visibility of 'DoNothing' or make it 'const' or 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Streams/Stage/GraphStage.cs#L773",
+"region":  {
+"startLine":  773,
+"startColumn":  30,
+"endLine":  773,
+"endColumn":  39
+}
+}
+}
+]
+}

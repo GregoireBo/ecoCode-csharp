@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2302",
+"message":  "Replace the string 'source' with 'nameof(source)'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Mappers/FromStringDictionaryMapper.cs#L36",
+"region":  {
+"startLine":  36,
+"startColumn":  60,
+"endLine":  36,
+"endColumn":  142
+}
+}
+}
+]
+}

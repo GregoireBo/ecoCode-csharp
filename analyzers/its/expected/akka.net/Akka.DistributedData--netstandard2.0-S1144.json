@@ -1,0 +1,43 @@
+{
+"issues":  [
+{
+"id":  "S1144",
+"message":  "Remove the unused private field '_pruningPerformed'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.DistributedData/Replicator.cs#L307",
+"region":  {
+"startLine":  307,
+"startColumn":  9,
+"endLine":  307,
+"endColumn":  125
+}
+}
+},
+{
+"id":  "S1144",
+"message":  "Remove the unused private field '_tombstonedNodes'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.DistributedData/Replicator.cs#L308",
+"region":  {
+"startLine":  308,
+"startColumn":  9,
+"endLine":  308,
+"endColumn":  106
+}
+}
+},
+{
+"id":  "S1144",
+"message":  "Remove the unused private property 'this[]'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.DistributedData/Serialization/ReplicatorMessageSerializer.cs#L56",
+"region":  {
+"startLine":  56,
+"startColumn":  25,
+"endLine":  56,
+"endColumn":  29
+}
+}
+}
+]
+}

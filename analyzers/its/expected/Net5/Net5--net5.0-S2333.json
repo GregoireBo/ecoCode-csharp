@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2333",
+"message":  "'partial' is gratuitous in this context.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5/RelaxRefPartialOrder.cs#L3",
+"region":  {
+"startLine":  3,
+"startColumn":  12,
+"endLine":  3,
+"endColumn":  19
+}
+}
+}
+]
+}

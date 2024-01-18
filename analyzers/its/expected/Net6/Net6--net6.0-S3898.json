@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3898",
+"message":  "Implement 'IEquatable<T>' in value type 'Struct'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net6/Net6/ParameterlessConstructorsAndFieldInitializersInStructs.cs#L3",
+"region":  {
+"startLine":  3,
+"startColumn":  19,
+"endLine":  3,
+"endColumn":  25
+}
+}
+}
+]
+}

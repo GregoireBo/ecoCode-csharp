@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2259",
+"message":  "'viewName' is null on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/ViewEngines/DefaultViewFactory.cs#L58",
+"region":  {
+"startLine":  58,
+"startColumn":  34,
+"endLine":  58,
+"endColumn":  42
+}
+}
+}
+]
+}

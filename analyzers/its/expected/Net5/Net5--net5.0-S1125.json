@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S1125",
+"message":  "Remove the unnecessary Boolean literal(s).",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5/Records.cs#L22",
+"region":  {
+"startLine":  22,
+"startColumn":  40,
+"endLine":  22,
+"endColumn":  47
+}
+}
+}
+]
+}

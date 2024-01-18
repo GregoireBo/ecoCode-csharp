@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S109",
+"message":  "Assign this magic number '2.20462262' to a well-named variable or constant, and use that instead.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5Samples/RecordWithStaticHelper/Program.cs#L15",
+"region":  {
+"startLine":  15,
+"startColumn":  69,
+"endLine":  15,
+"endColumn":  79
+}
+}
+}
+]
+}

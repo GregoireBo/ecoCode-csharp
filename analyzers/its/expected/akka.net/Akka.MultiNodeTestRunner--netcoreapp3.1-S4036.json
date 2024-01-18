@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S4036",
+"message":  "Make sure the "PATH" used to find this command includes only what you intend.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.MultiNodeTestRunner/Program.cs#L362",
+"region":  {
+"startLine":  362,
+"startColumn":  33,
+"endLine":  362,
+"endColumn":  59
+}
+}
+}
+]
+}

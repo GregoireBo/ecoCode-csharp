@@ -1,0 +1,43 @@
+{
+"issues":  [
+{
+"id":  "S1147",
+"message":  "Remove this call to 'Environment.Exit' or ensure it is really required.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/CoordinatedShutdown.cs#L649",
+"region":  {
+"startLine":  649,
+"startColumn":  45,
+"endLine":  649,
+"endColumn":  49
+}
+}
+},
+{
+"id":  "S1147",
+"message":  "Remove this call to 'Environment.Exit' or ensure it is really required.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/CoordinatedShutdown.cs#L661",
+"region":  {
+"startLine":  661,
+"startColumn":  45,
+"endLine":  661,
+"endColumn":  49
+}
+}
+},
+{
+"id":  "S1147",
+"message":  "Remove this call to 'Environment.Exit' or ensure it is really required.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/CoordinatedShutdown.cs#L668",
+"region":  {
+"startLine":  668,
+"startColumn":  37,
+"endLine":  668,
+"endColumn":  41
+}
+}
+}
+]
+}

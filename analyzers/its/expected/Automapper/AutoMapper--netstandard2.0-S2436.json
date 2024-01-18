@@ -1,0 +1,186 @@
+{
+"issues":  [
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'IProjectionExpression' interface to no more than the 2 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMappingExpression.cs#L109",
+"region":  {
+"startLine":  109,
+"startColumn":  22,
+"endLine":  109,
+"endColumn":  43
+}
+}
+},
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'IProjectionExpressionBase' interface to no more than the 2 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMappingExpressionBase.cs#L15",
+"region":  {
+"startLine":  15,
+"startColumn":  22,
+"endLine":  15,
+"endColumn":  47
+}
+}
+},
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'IMappingExpressionBase' interface to no more than the 2 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMappingExpressionBase.cs#L60",
+"region":  {
+"startLine":  60,
+"startColumn":  22,
+"endLine":  60,
+"endColumn":  44
+}
+}
+},
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'IMemberConfigurationExpression' interface to no more than the 2 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L13",
+"region":  {
+"startLine":  13,
+"startColumn":  22,
+"endLine":  13,
+"endColumn":  52
+}
+}
+},
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'IMemberConfigurationExpression.MapFrom' method to no more than the 3 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L230",
+"region":  {
+"startLine":  230,
+"startColumn":  14,
+"endLine":  230,
+"endColumn":  21
+}
+}
+},
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'IProjectionMemberConfiguration' interface to no more than the 2 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L269",
+"region":  {
+"startLine":  269,
+"startColumn":  22,
+"endLine":  269,
+"endColumn":  52
+}
+}
+},
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'IValueResolver' interface to no more than the 2 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L322",
+"region":  {
+"startLine":  322,
+"startColumn":  22,
+"endLine":  322,
+"endColumn":  36
+}
+}
+},
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'IMemberValueResolver' interface to no more than the 2 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/IMemberConfigurationExpression.cs#L338",
+"region":  {
+"startLine":  338,
+"startColumn":  22,
+"endLine":  338,
+"endColumn":  42
+}
+}
+},
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'MemberConfigurationExpression.MapFrom' method to no more than the 3 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MappingExpression.cs#L104",
+"region":  {
+"startLine":  104,
+"startColumn":  25,
+"endLine":  104,
+"endColumn":  32
+}
+}
+},
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'MappingExpressionBase' class to no more than the 2 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MappingExpressionBase.cs#L279",
+"region":  {
+"startLine":  279,
+"startColumn":  27,
+"endLine":  279,
+"endColumn":  48
+}
+}
+},
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'MemberConfigurationExpression' class to no more than the 2 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/MemberConfigurationExpression.cs#L18",
+"region":  {
+"startLine":  18,
+"startColumn":  18,
+"endLine":  18,
+"endColumn":  47
+}
+}
+},
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'IPathConfigurationExpression' interface to no more than the 2 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/PathConfigurationExpression.cs#L15",
+"region":  {
+"startLine":  15,
+"startColumn":  22,
+"endLine":  15,
+"endColumn":  50
+}
+}
+},
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'ConditionParameters' struct to no more than the 2 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/PathConfigurationExpression.cs#L30",
+"region":  {
+"startLine":  30,
+"startColumn":  28,
+"endLine":  30,
+"endColumn":  47
+}
+}
+},
+{
+"id":  "S2436",
+"message":  "Reduce the number of generic parameters in the 'PathConfigurationExpression' class to no more than the 2 authorized.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/AutoMapper/src/AutoMapper/Configuration/PathConfigurationExpression.cs#L46",
+"region":  {
+"startLine":  46,
+"startColumn":  18,
+"endLine":  46,
+"endColumn":  45
+}
+}
+}
+]
+}

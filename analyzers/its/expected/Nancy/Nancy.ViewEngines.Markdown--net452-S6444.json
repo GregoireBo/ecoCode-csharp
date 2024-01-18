@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S6444",
+"message":  "Pass a timeout to limit the execution time.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.ViewEngines.Markdown/MarkDownViewEngine.cs#L30",
+"region":  {
+"startLine":  30,
+"startColumn":  63,
+"endLine":  30,
+"endColumn":  140
+}
+}
+},
+{
+"id":  "S6444",
+"message":  "Pass a timeout to limit the execution time.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.ViewEngines.Markdown/MarkdownViewengineRender.cs#L21",
+"region":  {
+"startLine":  21,
+"startColumn":  63,
+"endLine":  21,
+"endColumn":  140
+}
+}
+}
+]
+}

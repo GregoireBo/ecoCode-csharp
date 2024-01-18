@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3900",
+"message":  "Refactor this method to add validation of parameter 'section' before using it.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Ember.Plugins/PluginSectionHandler.cs#L58",
+"region":  {
+"startLine":  58,
+"startColumn":  38,
+"endLine":  58,
+"endColumn":  45
+}
+}
+}
+]
+}

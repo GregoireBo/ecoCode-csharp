@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3168",
+"message":  "Return 'Task' instead.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/benchmark/PingPong/Program.cs#L57",
+"region":  {
+"startLine":  57,
+"startColumn":  30,
+"endLine":  57,
+"endColumn":  34
+}
+}
+}
+]
+}

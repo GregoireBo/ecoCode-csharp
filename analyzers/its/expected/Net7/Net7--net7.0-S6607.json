@@ -1,0 +1,28 @@
+{
+"issues":  [
+{
+"id":  "S6607",
+"message":  ""Where" should be used before "OrderBy"",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net7/Net7/features/OrderByBeforeWhere.cs#L8",
+"region":  {
+"startLine":  8,
+"startColumn":  41,
+"endLine":  8,
+"endColumn":  46
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net7/Net7/features/OrderByBeforeWhere.cs#L8",
+"region":  {
+"startLine":  8,
+"startColumn":  25,
+"endLine":  8,
+"endColumn":  32
+}
+}
+]
+}
+]
+}

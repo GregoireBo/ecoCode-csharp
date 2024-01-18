@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S2326",
+"message":  "'T' is not used in the interface.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Dispatch/IRequiresMessageQueue.cs#L18",
+"region":  {
+"startLine":  18,
+"startColumn":  44,
+"endLine":  18,
+"endColumn":  45
+}
+}
+},
+{
+"id":  "S2326",
+"message":  "'TQueue' is not used in the interface.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Dispatch/Mailbox.cs#L590",
+"region":  {
+"startLine":  590,
+"startColumn":  44,
+"endLine":  590,
+"endColumn":  50
+}
+}
+}
+]
+}

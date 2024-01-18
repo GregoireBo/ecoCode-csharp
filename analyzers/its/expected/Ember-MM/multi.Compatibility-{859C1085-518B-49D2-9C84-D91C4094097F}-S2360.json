@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2360",
+"message":  "Use the overloading mechanism instead of the optional parameters.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/multi.Compatibility/genericMediaBrowser.vb#L634",
+"region":  {
+"startLine":  634,
+"startColumn":  68,
+"endLine":  634,
+"endColumn":  76
+}
+}
+}
+]
+}

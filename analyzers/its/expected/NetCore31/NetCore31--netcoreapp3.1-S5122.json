@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S5122",
+"message":  "Make sure this permissive CORS policy is safe here.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/NetCore31/Controllers/S5122Controller.cs#L9",
+"region":  {
+"startLine":  9,
+"startColumn":  13,
+"endLine":  9,
+"endColumn":  69
+}
+}
+},
+{
+"id":  "S5122",
+"message":  "Make sure this permissive CORS policy is safe here.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/NetCore31/Startup.cs#L18",
+"region":  {
+"startLine":  18,
+"startColumn":  21,
+"endLine":  18,
+"endColumn":  45
+}
+}
+}
+]
+}

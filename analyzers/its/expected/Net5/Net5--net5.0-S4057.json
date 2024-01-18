@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S4057",
+"message":  "Set the locale for this 'DataSet'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5/S4057.cs#L7",
+"region":  {
+"startLine":  7,
+"startColumn":  27,
+"endLine":  7,
+"endColumn":  33
+}
+}
+},
+{
+"id":  "S4057",
+"message":  "Set the locale for this 'DataTable'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5/S4057.cs#L8",
+"region":  {
+"startLine":  8,
+"startColumn":  30,
+"endLine":  8,
+"endColumn":  36
+}
+}
+}
+]
+}

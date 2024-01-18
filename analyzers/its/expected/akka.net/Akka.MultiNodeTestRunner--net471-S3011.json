@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S3011",
+"message":  "Make sure that this accessibility bypass is safe here.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.MultiNodeTestRunner/Discovery.cs#L114",
+"region":  {
+"startLine":  114,
+"startColumn":  38,
+"endLine":  114,
+"endColumn":  60
+}
+}
+},
+{
+"id":  "S3011",
+"message":  "Make sure that this accessibility bypass is safe here.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.MultiNodeTestRunner/Discovery.cs#L126",
+"region":  {
+"startLine":  126,
+"startColumn":  52,
+"endLine":  126,
+"endColumn":  74
+}
+}
+}
+]
+}

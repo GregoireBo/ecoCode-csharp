@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S4069",
+"message":  "Implement alternative method 'Add' for the operator '+'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Streams/Dsl/Restart.cs#L607",
+"region":  {
+"startLine":  607,
+"startColumn":  41,
+"endLine":  607,
+"endColumn":  42
+}
+}
+}
+]
+}

@@ -1,0 +1,43 @@
+{
+"issues":  [
+{
+"id":  "S1821",
+"message":  "Refactor the code to eliminate this nested 'switch'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.DistributedData/ORSet.cs#L686",
+"region":  {
+"startLine":  686,
+"startColumn":  25,
+"endLine":  686,
+"endColumn":  31
+}
+}
+},
+{
+"id":  "S1821",
+"message":  "Refactor the code to eliminate this nested 'switch'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.DistributedData/Replicator.cs#L533",
+"region":  {
+"startLine":  533,
+"startColumn":  25,
+"endLine":  533,
+"endColumn":  31
+}
+}
+},
+{
+"id":  "S1821",
+"message":  "Refactor the code to eliminate this nested 'switch'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.DistributedData/Replicator.cs#L553",
+"region":  {
+"startLine":  553,
+"startColumn":  25,
+"endLine":  553,
+"endColumn":  31
+}
+}
+}
+]
+}

@@ -1,0 +1,56 @@
+{
+"issues":  [
+{
+"id":  "S100",
+"message":  "Rename method 'InitFSM' to match pascal case naming rules, consider using 'InitFsm'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Remote.TestKit/BarrierCoordinator.cs#L495",
+"region":  {
+"startLine":  495,
+"startColumn":  24,
+"endLine":  495,
+"endColumn":  31
+}
+}
+},
+{
+"id":  "S100",
+"message":  "Rename method 'InitFSM' to match pascal case naming rules, consider using 'InitFsm'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Remote.TestKit/Conductor.cs#L355",
+"region":  {
+"startLine":  355,
+"startColumn":  24,
+"endLine":  355,
+"endColumn":  31
+}
+}
+},
+{
+"id":  "S100",
+"message":  "Rename property 'FSM' to match pascal case naming rules, consider using 'Fsm'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Remote.TestKit/Controller.cs#L160",
+"region":  {
+"startLine":  160,
+"startColumn":  30,
+"endLine":  160,
+"endColumn":  33
+}
+}
+},
+{
+"id":  "S100",
+"message":  "Rename method 'InitFSM' to match pascal case naming rules, consider using 'InitFsm'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Remote.TestKit/Player.cs#L350",
+"region":  {
+"startLine":  350,
+"startColumn":  21,
+"endLine":  350,
+"endColumn":  28
+}
+}
+}
+]
+}

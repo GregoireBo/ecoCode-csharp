@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>SonarAnalyzer.RuleDescriptorGenerator</AssemblyName>
+    <RootNamespace>SonarAnalyzer.RuleDescriptorGenerator</RootNamespace>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SonarAnalyzer.Common\SonarAnalyzer.Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Roslyn packages are needed to properly load rule types at runtime -->
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp.Workspaces" Version="1.3.2" />
+    <PackageReference Include="Microsoft.CodeAnalysis.VisualBasic.Workspaces" Version="1.3.2" />
+  </ItemGroup>
+
+  <Target Name="CopyBinaries" AfterTargets="Build">
+    <ItemGroup>
+      <BinariesToCopy Include="$(OutputPath)\*.dll" />
+      <BinariesToCopy Include="$(OutputPath)\*.json" />
+    </ItemGroup>
+    <Copy SourceFiles="@(BinariesToCopy)" DestinationFolder="$(BinariesFolder)\RuleDescriptorGenerator" />
+  </Target>
+
+</Project>

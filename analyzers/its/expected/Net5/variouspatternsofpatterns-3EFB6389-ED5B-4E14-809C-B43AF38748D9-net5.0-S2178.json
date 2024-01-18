@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2178",
+"message":  "Correct this '|' to '||'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5Samples/VariousPatternsOfPatterns/Program.cs#L77",
+"region":  {
+"startLine":  77,
+"startColumn":  58,
+"endLine":  77,
+"endColumn":  59
+}
+}
+}
+]
+}

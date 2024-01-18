@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S4004",
+"message":  "Make the 'NonGenericList' property read-only by removing the property setter or making it private.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5/S4004.cs#L8",
+"region":  {
+"startLine":  8,
+"startColumn":  26,
+"endLine":  8,
+"endColumn":  40
+}
+}
+}
+]
+}

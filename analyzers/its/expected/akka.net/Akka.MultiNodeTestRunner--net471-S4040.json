@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S4040",
+"message":  "Change this normalization to 'ToUpperInvariant()'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.MultiNodeTestRunner/Program.cs#L179",
+"region":  {
+"startLine":  179,
+"startColumn":  30,
+"endLine":  179,
+"endColumn":  46
+}
+}
+}
+]
+}

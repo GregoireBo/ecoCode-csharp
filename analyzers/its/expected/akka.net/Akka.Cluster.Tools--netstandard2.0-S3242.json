@@ -1,0 +1,69 @@
+{
+"issues":  [
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'Akka.Actor.ICanTell' instead of 'Akka.Actor.IActorRef'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.Cluster.Tools/Client/ClusterClient.cs#L493",
+"region":  {
+"startLine":  493,
+"startColumn":  45,
+"endLine":  493,
+"endColumn":  57
+}
+}
+},
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'Akka.Actor.ICanTell' instead of 'Akka.Actor.IActorRef'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.Cluster.Tools/PublishSubscribe/PerGroupingBuffer.cs#L80",
+"region":  {
+"startLine":  80,
+"startColumn":  75,
+"endLine":  80,
+"endColumn":  84
+}
+}
+},
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'Akka.Actor.IWrappedMessage' instead of 'Akka.Cluster.Tools.PublishSubscribe.Send'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.Cluster.Tools/PublishSubscribe/Serialization/DistributedPubSubMessageSerializer.cs#L210",
+"region":  {
+"startLine":  210,
+"startColumn":  41,
+"endLine":  210,
+"endColumn":  45
+}
+}
+},
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'Akka.Actor.IWrappedMessage' instead of 'Akka.Cluster.Tools.PublishSubscribe.SendToAll'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.Cluster.Tools/PublishSubscribe/Serialization/DistributedPubSubMessageSerializer.cs#L225",
+"region":  {
+"startLine":  225,
+"startColumn":  51,
+"endLine":  225,
+"endColumn":  60
+}
+}
+},
+{
+"id":  "S3242",
+"message":  "Consider using more general type 'Akka.Actor.IWrappedMessage' instead of 'Akka.Cluster.Tools.PublishSubscribe.Publish'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.Cluster.Tools/PublishSubscribe/Serialization/DistributedPubSubMessageSerializer.cs#L240",
+"region":  {
+"startLine":  240,
+"startColumn":  47,
+"endLine":  240,
+"endColumn":  54
+}
+}
+}
+]
+}

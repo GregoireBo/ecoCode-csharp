@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3885",
+"message":  "Replace this call to 'Assembly.LoadFrom' with 'Assembly.Load'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.MultiNodeTestRunner/Discovery.cs#L74",
+"region":  {
+"startLine":  74,
+"startColumn":  45,
+"endLine":  74,
+"endColumn":  53
+}
+}
+}
+]
+}

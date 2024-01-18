@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2355",
+"message":  "Use an array literal here instead.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.Notifications/Module.Notifications.vb#L66",
+"region":  {
+"startLine":  66,
+"startColumn":  55,
+"endLine":  66,
+"endColumn":  119
+}
+}
+}
+]
+}

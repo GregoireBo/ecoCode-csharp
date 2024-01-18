@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S4049",
+"message":  "Consider making method 'GetRules' a property.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Validation.DataAnnotations/IPropertyValidator.cs#L27",
+"region":  {
+"startLine":  27,
+"startColumn":  42,
+"endLine":  27,
+"endColumn":  50
+}
+}
+}
+]
+}

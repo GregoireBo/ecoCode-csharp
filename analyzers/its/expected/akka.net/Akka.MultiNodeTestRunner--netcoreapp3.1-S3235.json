@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3235",
+"message":  "Remove these redundant parentheses.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.MultiNodeTestRunner/Program.cs#L414",
+"region":  {
+"startLine":  414,
+"startColumn":  63,
+"endLine":  414,
+"endColumn":  65
+}
+}
+}
+]
+}

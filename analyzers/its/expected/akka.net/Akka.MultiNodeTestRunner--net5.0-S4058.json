@@ -1,0 +1,33 @@
+{
+"issues":  [
+{
+"id":  "S4058",
+"message":  "Change this call to 'Regex.Escape(pattern.Trim())
+                        .Replace' to an overload that accepts a 'StringComparison' as a parameter.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.MultiNodeTestRunner/WildcardPatterns.cs#L32-L33",
+"region":  {
+"startLine":  32,
+"startColumn":  21,
+"endLine":  33,
+"endColumn":  45
+}
+}
+},
+{
+"id":  "S4058",
+"message":  "Change this call to 'Regex.Escape(pattern.Trim())
+                        .Replace("\\?", ".")
+                        .Replace' to an overload that accepts a 'StringComparison' as a parameter.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.MultiNodeTestRunner/WildcardPatterns.cs#L32-L34",
+"region":  {
+"startLine":  32,
+"startColumn":  21,
+"endLine":  34,
+"endColumn":  46
+}
+}
+}
+]
+}

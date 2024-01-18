@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S125",
+"message":  "Remove this commented out code.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Hosting.Self/NancyHost.cs#L179",
+"region":  {
+"startLine":  179,
+"startColumn":  17,
+"endLine":  179,
+"endColumn":  69
+}
+}
+}
+]
+}

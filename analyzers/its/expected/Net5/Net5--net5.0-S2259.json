@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2259",
+"message":  "'o' is null on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5/S2259.cs#L13",
+"region":  {
+"startLine":  13,
+"startColumn":  25,
+"endLine":  13,
+"endColumn":  26
+}
+}
+}
+]
+}

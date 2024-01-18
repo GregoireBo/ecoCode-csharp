@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S1172",
+"message":  "Remove this unused procedure parameter 'isChecked'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/EmberAPI/clsAPINFO.vb#L1022",
+"region":  {
+"startLine":  1022,
+"startColumn":  66,
+"endLine":  1022,
+"endColumn":  92
+}
+}
+}
+]
+}

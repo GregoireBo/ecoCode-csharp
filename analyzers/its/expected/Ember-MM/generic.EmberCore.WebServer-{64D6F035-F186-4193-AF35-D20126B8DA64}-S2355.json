@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2355",
+"message":  "Use an array literal here instead.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.WebServer/Module.WebServer.vb#L77",
+"region":  {
+"startLine":  77,
+"startColumn":  55,
+"endLine":  77,
+"endColumn":  114
+}
+}
+}
+]
+}

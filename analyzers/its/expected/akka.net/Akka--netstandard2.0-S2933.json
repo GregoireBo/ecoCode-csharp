@@ -1,0 +1,264 @@
+{
+"issues":  [
+{
+"id":  "S2933",
+"message":  "Make '_log' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/ActorProducerPipeline.cs#L240",
+"region":  {
+"startLine":  240,
+"startColumn":  39,
+"endLine":  240,
+"endColumn":  43
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_mcn' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/Futures.cs#L237",
+"region":  {
+"startLine":  237,
+"startColumn":  33,
+"endLine":  237,
+"endColumn":  37
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_stateDoNotCallMeDirectly' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/Futures.cs#L254",
+"region":  {
+"startLine":  254,
+"startColumn":  41,
+"endLine":  254,
+"endColumn":  66
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_cell' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/LocalActorRef.cs#L28",
+"region":  {
+"startLine":  28,
+"startColumn":  27,
+"endLine":  28,
+"endColumn":  32
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_shouldUnhandle' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/ReceiveActor.cs#L22",
+"region":  {
+"startLine":  22,
+"startColumn":  22,
+"endLine":  22,
+"endColumn":  37
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_stopped' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/Scheduler/HashedWheelTimerScheduler.cs#L354",
+"region":  {
+"startLine":  354,
+"startColumn":  91,
+"endLine":  354,
+"endColumn":  99
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make 'timerGen' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Actor/Scheduler/TimerScheduler.cs#L80",
+"region":  {
+"startLine":  80,
+"startColumn":  31,
+"endLine":  80,
+"endColumn":  39
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_tasks' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Dispatch/Dispatchers.cs#L105",
+"region":  {
+"startLine":  105,
+"startColumn":  39,
+"endLine":  105,
+"endColumn":  45
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make 'respondTo' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Dispatch/FutureActor.cs#L18",
+"region":  {
+"startLine":  18,
+"startColumn":  27,
+"endLine":  18,
+"endColumn":  36
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make 'result' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Dispatch/FutureActor.cs#L19",
+"region":  {
+"startLine":  19,
+"startColumn":  46,
+"endLine":  19,
+"endColumn":  52
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_mailboxNonZeroPushTimeoutWarningIssued' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Dispatch/Mailboxes.cs#L153",
+"region":  {
+"startLine":  153,
+"startColumn":  22,
+"endLine":  153,
+"endColumn":  61
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_cacheCleanup' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/IO/SimpleDnsManager.cs#L22",
+"region":  {
+"startLine":  22,
+"startColumn":  39,
+"endLine":  22,
+"endColumn":  52
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_cleanupTimer' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/IO/SimpleDnsManager.cs#L23",
+"region":  {
+"startLine":  23,
+"startColumn":  29,
+"endLine":  23,
+"endColumn":  42
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_hashMapping' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Routing/ConsistentHashRouter.cs#L117",
+"region":  {
+"startLine":  117,
+"startColumn":  39,
+"endLine":  117,
+"endColumn":  51
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make 'resizer' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Routing/ResizablePoolCell.cs#L25",
+"region":  {
+"startLine":  25,
+"startColumn":  25,
+"endLine":  25,
+"endColumn":  32
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_resizeInProgress' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Routing/ResizablePoolCell.cs#L29",
+"region":  {
+"startLine":  29,
+"startColumn":  31,
+"endLine":  29,
+"endColumn":  48
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_resizeCounter' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Routing/ResizablePoolCell.cs#L30",
+"region":  {
+"startLine":  30,
+"startColumn":  35,
+"endLine":  30,
+"endColumn":  49
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_pool' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Routing/ResizablePoolCell.cs#L31",
+"region":  {
+"startLine":  31,
+"startColumn":  22,
+"endLine":  31,
+"endColumn":  27
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_routees' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Routing/ScatterGatherFirstCompleted.cs#L59",
+"region":  {
+"startLine":  59,
+"startColumn":  26,
+"endLine":  59,
+"endColumn":  34
+}
+}
+},
+{
+"id":  "S2933",
+"message":  "Make '_priorityCalculator' 'readonly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka/Util/ListPriorityQueue.cs#L23",
+"region":  {
+"startLine":  23,
+"startColumn":  35,
+"endLine":  23,
+"endColumn":  54
+}
+}
+}
+]
+}

@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3898",
+"message":  "Implement 'IEquatable<T>' in value type 'AnyNumber'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.Cluster.Metrics/Helpers/AnyNumber.cs#L18",
+"region":  {
+"startLine":  18,
+"startColumn":  19,
+"endLine":  18,
+"endColumn":  28
+}
+}
+}
+]
+}

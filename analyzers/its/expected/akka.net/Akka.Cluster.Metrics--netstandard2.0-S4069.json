@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S4069",
+"message":  "Implement alternative method 'Add' for the operator '+'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.Cluster.Metrics/Serialization/EWMA.cs#L62",
+"region":  {
+"startLine":  62,
+"startColumn":  45,
+"endLine":  62,
+"endColumn":  46
+}
+}
+},
+{
+"id":  "S4069",
+"message":  "Implement alternative method 'Add' for the operator '+'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/cluster/Akka.Cluster.Metrics/Serialization/MetricsGossip.cs#L65",
+"region":  {
+"startLine":  65,
+"startColumn":  46,
+"endLine":  65,
+"endColumn":  47
+}
+}
+}
+]
+}

@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S1117",
+"message":  "Rename 'identifier' which hides the field with the same name.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.ViewEngines.Razor/ClrTypeResolver.cs#L96",
+"region":  {
+"startLine":  96,
+"startColumn":  17,
+"endLine":  96,
+"endColumn":  27
+}
+}
+}
+]
+}

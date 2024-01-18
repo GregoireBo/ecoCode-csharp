@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S4015",
+"message":  "This member hides 'Net5.S4015.A.Property'. Make it non-private or seal the class.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5/S4015.cs#L12",
+"region":  {
+"startLine":  12,
+"startColumn":  24,
+"endLine":  12,
+"endColumn":  32
+}
+}
+}
+]
+}

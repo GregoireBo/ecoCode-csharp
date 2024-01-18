@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2302",
+"message":  "Replace the string 'duration' with 'nameof(duration)'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.TestKit/TestKitBase.cs#L428",
+"region":  {
+"startLine":  428,
+"startColumn":  67,
+"endLine":  428,
+"endColumn":  100
+}
+}
+}
+]
+}

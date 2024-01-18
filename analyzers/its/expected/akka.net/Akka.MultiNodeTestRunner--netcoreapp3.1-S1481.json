@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S1481",
+"message":  "Remove the unused local variable 'discoveryComplete'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.MultiNodeTestRunner/Discovery.cs#L59",
+"region":  {
+"startLine":  59,
+"startColumn":  48,
+"endLine":  59,
+"endColumn":  65
+}
+}
+},
+{
+"id":  "S1481",
+"message":  "Remove the unused local variable 'alternateIndex'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.MultiNodeTestRunner/Program.cs#L294",
+"region":  {
+"startLine":  294,
+"startColumn":  33,
+"endLine":  294,
+"endColumn":  47
+}
+}
+}
+]
+}

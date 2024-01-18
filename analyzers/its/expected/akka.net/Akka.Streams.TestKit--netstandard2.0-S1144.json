@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S1144",
+"message":  "Remove the unused private method 'Assert'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Streams.TestKit/TestSubscriber.cs#L516",
+"region":  {
+"startLine":  516,
+"startColumn":  26,
+"endLine":  516,
+"endColumn":  32
+}
+}
+}
+]
+}

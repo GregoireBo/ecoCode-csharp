@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2326",
+"message":  "'TModel' is not used in the method.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.ViewEngines.Nustache/NustacheViewEngine.cs#L49",
+"region":  {
+"startLine":  49,
+"startColumn":  52,
+"endLine":  49,
+"endColumn":  58
+}
+}
+}
+]
+}

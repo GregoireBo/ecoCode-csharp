@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S3903",
+"message":  "Move 'LoginResourceRecord' into a named namespace.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5Samples/RecordsVsClasses/Program.cs#L24",
+"region":  {
+"startLine":  24,
+"startColumn":  15,
+"endLine":  24,
+"endColumn":  34
+}
+}
+},
+{
+"id":  "S3903",
+"message":  "Move 'LoginResourceClass' into a named namespace.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5Samples/RecordsVsClasses/Program.cs#L26",
+"region":  {
+"startLine":  26,
+"startColumn":  14,
+"endLine":  26,
+"endColumn":  32
+}
+}
+}
+]
+}

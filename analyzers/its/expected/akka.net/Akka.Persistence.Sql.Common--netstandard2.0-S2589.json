@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2589",
+"message":  "Change this expression which always evaluates to the same result.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/contrib/persistence/Akka.Persistence.Sql.Common/Snapshot/SqlSnapshotStore.cs#L59",
+"region":  {
+"startLine":  59,
+"startColumn":  51,
+"endLine":  59,
+"endColumn":  55
+}
+}
+}
+]
+}

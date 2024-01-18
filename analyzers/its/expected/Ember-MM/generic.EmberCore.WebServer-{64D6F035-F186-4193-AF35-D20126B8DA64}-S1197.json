@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S1197",
+"message":  "Move the array designator from the variable to the type.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.WebServer/Server/clsServer.vb#L145",
+"region":  {
+"startLine":  145,
+"startColumn":  21,
+"endLine":  145,
+"endColumn":  32
+}
+}
+}
+]
+}

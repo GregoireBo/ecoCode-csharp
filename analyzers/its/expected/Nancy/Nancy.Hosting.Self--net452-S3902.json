@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3902",
+"message":  "Replace this call to 'Assembly.GetExecutingAssembly()' with 'Type.Assembly'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Hosting.Self/FileSystemRootPathProvider.cs#L19",
+"region":  {
+"startLine":  19,
+"startColumn":  57,
+"endLine":  19,
+"endColumn":  77
+}
+}
+}
+]
+}

@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S108",
+"message":  "Either remove or fill this block of code.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net6/NullableReferenceTypesExample/NullableReferenceTypesExample.cs#L17-L18",
+"region":  {
+"startLine":  17,
+"startColumn":  13,
+"endLine":  18,
+"endColumn":  14
+}
+}
+}
+]
+}

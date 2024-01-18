@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S109",
+"message":  "Assign this magic number '2' to a well-named variable or constant, and use that instead.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Encryption.MachineKey/MachineKeyHmacProvider.cs#L87",
+"region":  {
+"startLine":  87,
+"startColumn":  61,
+"endLine":  87,
+"endColumn":  62
+}
+}
+},
+{
+"id":  "S109",
+"message":  "Assign this magic number '2' to a well-named variable or constant, and use that instead.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy.Encryption.MachineKey/MachineKeyHmacProvider.cs#L94",
+"region":  {
+"startLine":  94,
+"startColumn":  47,
+"endLine":  94,
+"endColumn":  48
+}
+}
+}
+]
+}

@@ -1,0 +1,88 @@
+{
+"issues":  [
+{
+"id":  "S1192",
+"message":  "Define a constant instead of using this literal 'Expected Actual: ' 4 times.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Tests.Shared.Internals/AkkaSpecExtensions.cs#L138",
+"region":  {
+"startLine":  138,
+"startColumn":  58,
+"endLine":  138,
+"endColumn":  77
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Tests.Shared.Internals/AkkaSpecExtensions.cs#L151",
+"region":  {
+"startLine":  151,
+"startColumn":  59,
+"endLine":  151,
+"endColumn":  78
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Tests.Shared.Internals/AkkaSpecExtensions.cs#L164",
+"region":  {
+"startLine":  164,
+"startColumn":  58,
+"endLine":  164,
+"endColumn":  77
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Tests.Shared.Internals/AkkaSpecExtensions.cs#L177",
+"region":  {
+"startLine":  177,
+"startColumn":  59,
+"endLine":  177,
+"endColumn":  78
+}
+}
+]
+},
+{
+"id":  "S1192",
+"message":  "Define a constant instead of using this literal ' to be less than ' 4 times.",
+"location":  [
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Tests.Shared.Internals/AkkaSpecExtensions.cs#L138",
+"region":  {
+"startLine":  138,
+"startColumn":  89,
+"endLine":  138,
+"endColumn":  108
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Tests.Shared.Internals/AkkaSpecExtensions.cs#L151",
+"region":  {
+"startLine":  151,
+"startColumn":  90,
+"endLine":  151,
+"endColumn":  109
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Tests.Shared.Internals/AkkaSpecExtensions.cs#L164",
+"region":  {
+"startLine":  164,
+"startColumn":  89,
+"endLine":  164,
+"endColumn":  108
+}
+},
+{
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Tests.Shared.Internals/AkkaSpecExtensions.cs#L177",
+"region":  {
+"startLine":  177,
+"startColumn":  90,
+"endLine":  177,
+"endColumn":  109
+}
+}
+]
+}
+]
+}

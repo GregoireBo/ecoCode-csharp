@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2354",
+"message":  "Reformat the code to remove this use of the line continuation character.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.Extractor/clsExtractor.vb#L135",
+"region":  {
+"startLine":  135,
+"startColumn":  98,
+"endLine":  135,
+"endColumn":  99
+}
+}
+}
+]
+}

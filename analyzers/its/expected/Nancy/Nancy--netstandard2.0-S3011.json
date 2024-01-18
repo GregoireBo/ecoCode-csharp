@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3011",
+"message":  "Make sure that this accessibility bypass is safe here.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/Diagnostics/InteractiveDiagnostics.cs#L18",
+"region":  {
+"startLine":  18,
+"startColumn":  90,
+"endLine":  18,
+"endColumn":  112
+}
+}
+}
+]
+}

@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S4069",
+"message":  "Implement alternative method 'Plus' for the operator '+'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Net5/Net5/Records.cs#L84",
+"region":  {
+"startLine":  84,
+"startColumn":  49,
+"endLine":  84,
+"endColumn":  50
+}
+}
+}
+]
+}

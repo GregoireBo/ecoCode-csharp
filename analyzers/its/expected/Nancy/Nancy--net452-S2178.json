@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S2178",
+"message":  "Correct this '&' to '&&'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/Diagnostics/InteractiveDiagnostics.cs#L36",
+"region":  {
+"startLine":  36,
+"startColumn":  74,
+"endLine":  36,
+"endColumn":  75
+}
+}
+}
+]
+}

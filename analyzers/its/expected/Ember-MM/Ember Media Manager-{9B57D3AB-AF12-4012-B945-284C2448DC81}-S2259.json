@@ -1,0 +1,95 @@
+{
+"issues":  [
+{
+"id":  "S2259",
+"message":  "'bReturn' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Ember%20Media%20Manager/dlgErrorViewer.vb#L64",
+"region":  {
+"startLine":  64,
+"startColumn":  65,
+"endLine":  64,
+"endColumn":  72
+}
+}
+},
+{
+"id":  "S2259",
+"message":  "'Me.tLangList.FirstOrDefault(Function(l) l.ShortLang = Master.eSettings.TVDBLanguage)' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Ember%20Media%20Manager/dlgSettings.vb#L836",
+"region":  {
+"startLine":  836,
+"startColumn":  36,
+"endLine":  836,
+"endColumn":  120
+}
+}
+},
+{
+"id":  "S2259",
+"message":  "'Me.SettingsPanels.FirstOrDefault(Function(p) p.Name = tvSettings.SelectedNode.Name)' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Ember%20Media%20Manager/dlgSettings.vb#L4315",
+"region":  {
+"startLine":  4315,
+"startColumn":  24,
+"endLine":  4315,
+"endColumn":  107
+}
+}
+},
+{
+"id":  "S2259",
+"message":  "'MyTVShowRegExProfiles.Profiles.FirstOrDefault(Function(y) y.Name = lstProfiles.SelectedItems(0).Text)' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Ember%20Media%20Manager/dlgTVRegExProfiles.vb#L13",
+"region":  {
+"startLine":  13,
+"startColumn":  36,
+"endLine":  13,
+"endColumn":  137
+}
+}
+},
+{
+"id":  "S2259",
+"message":  "'Me.tLangList.FirstOrDefault(Function(l) l.ShortLang = Master.eSettings.TVDBLanguage)' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Ember%20Media%20Manager/dlgWizard.vb#L175",
+"region":  {
+"startLine":  175,
+"startColumn":  27,
+"endLine":  175,
+"endColumn":  111
+}
+}
+},
+{
+"id":  "S2259",
+"message":  "'tLangList.FirstOrDefault(Function(l) l.LongLang = Me.cbTVLanguage.Text)' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Ember%20Media%20Manager/dlgWizard.vb#L371",
+"region":  {
+"startLine":  371,
+"startColumn":  26,
+"endLine":  371,
+"endColumn":  97
+}
+}
+},
+{
+"id":  "S2259",
+"message":  "'Me.tLangList.FirstOrDefault(Function(l) l.ShortLang = Master.eSettings.TVDBLanguage)' is Nothing on at least one execution path.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Ember%20Media%20Manager/dlgWizard.vb#L444",
+"region":  {
+"startLine":  444,
+"startColumn":  27,
+"endLine":  444,
+"endColumn":  111
+}
+}
+}
+]
+}

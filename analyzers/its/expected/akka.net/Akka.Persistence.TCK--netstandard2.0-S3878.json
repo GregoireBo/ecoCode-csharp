@@ -1,0 +1,30 @@
+{
+"issues":  [
+{
+"id":  "S3878",
+"message":  "Remove this array creation and simply pass the elements.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Persistence.TCK/Performance/JournalPerfSpec.cs#L299",
+"region":  {
+"startLine":  299,
+"startColumn":  29,
+"endLine":  299,
+"endColumn":  49
+}
+}
+},
+{
+"id":  "S3878",
+"message":  "Remove this array creation and simply pass the elements.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Persistence.TCK/Performance/JournalPerfSpec.cs#L337",
+"region":  {
+"startLine":  337,
+"startColumn":  30,
+"endLine":  337,
+"endColumn":  62
+}
+}
+}
+]
+}

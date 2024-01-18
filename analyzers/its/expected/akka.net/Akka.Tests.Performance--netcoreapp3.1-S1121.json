@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S1121",
+"message":  "Extract the assignment of 'nameCounter' from this expression.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Tests.Performance/Actor/Internal/ChildrenContainerSpec.cs#L76",
+"region":  {
+"startLine":  76,
+"startColumn":  37,
+"endLine":  76,
+"endColumn":  39
+}
+}
+}
+]
+}

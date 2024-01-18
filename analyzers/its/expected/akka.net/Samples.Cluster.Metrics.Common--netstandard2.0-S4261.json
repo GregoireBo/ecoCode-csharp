@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S4261",
+"message":  "Add the 'Async' suffix to the name of this method.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/examples/Cluster/Metrics/Samples.Cluster.Metrics.Common/FactorialBackend.cs#L29",
+"region":  {
+"startLine":  29,
+"startColumn":  47,
+"endLine":  29,
+"endColumn":  56
+}
+}
+}
+]
+}

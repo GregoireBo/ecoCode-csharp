@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S4790",
+"message":  "Make sure this weak hash algorithm is not used in a sensitive context here.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Nancy/src/Nancy/Responses/EmbeddedFileResponse.cs#L77",
+"region":  {
+"startLine":  77,
+"startColumn":  31,
+"endLine":  77,
+"endColumn":  44
+}
+}
+}
+]
+}

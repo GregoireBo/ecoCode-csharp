@@ -1,0 +1,17 @@
+{
+"issues":  [
+{
+"id":  "S3898",
+"message":  "Implement 'IEquatable<T>' in value type 'EmberSource'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/Ember-MM/Addons/generic.EmberCore.XBMC/dlgXBMCHost.vb#L15",
+"region":  {
+"startLine":  15,
+"startColumn":  15,
+"endLine":  15,
+"endColumn":  26
+}
+}
+}
+]
+}

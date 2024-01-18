@@ -1,0 +1,43 @@
+{
+"issues":  [
+{
+"id":  "S1144",
+"message":  "Remove the unused private field 'ProcessorForMethod'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Streams/Implementation/ActorMaterializerImpl.cs#L107-L109",
+"region":  {
+"startLine":  107,
+"startColumn":  13,
+"endLine":  109,
+"endColumn":  69
+}
+}
+},
+{
+"id":  "S1144",
+"message":  "Remove the unused private method 'CreateSubscription'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Streams/Implementation/FanOut.cs#L36",
+"region":  {
+"startLine":  36,
+"startColumn":  38,
+"endLine":  36,
+"endColumn":  56
+}
+}
+},
+{
+"id":  "S1144",
+"message":  "Remove the unused private method 'AddFollowUps'.",
+"location":  {
+"uri":  "https://github.com/SonarSource/sonar-dotnet/blob/master/analyzers/its/sources/akka.net/src/core/Akka.Streams/Stage/GraphStage.cs#L542",
+"region":  {
+"startLine":  542,
+"startColumn":  26,
+"endLine":  542,
+"endColumn":  38
+}
+}
+}
+]
+}
